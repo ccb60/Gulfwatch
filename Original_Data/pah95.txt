@@ -1,0 +1,689 @@
+Tissue concentrations of polyaromatic hydrocarbons in Mytilus edulis (ng/g dry weight).								
+
+
+
+
+               PAHs		95MAPR1	95MAPR2	95MAPR3	95MAPR4	95MAPR1	95MAPR2	95MAPR3
+		C	C	C	C	I	I	I
+
+Naphthalene		<30	<30	<30	<30	<30/<30	<30	<30
+2-Me naphthalene		<30	<30	<30	<30	<30/<30	<30	<30
+1-Me naphthalene		<30	<30	<30	<30	<30/<30	<30	<30
+Biphenyl		<20	<20	<20	<20	<20/<20	<20	<20
+"2,6-Dime naphthalen"		<20	<20	<20	<20	<20/<20	<20	<20
+Acenaphthylene		<10	<10	<10	<10	<10/<10	<10	<10
+Acenaphthene		<10	<10	<10	<10	<10/<10	<10	<10
+"2,3,5-Trime naphthal"		<20	<20	<20	<20	<20/<20	<20	<20
+Fluorene		<10	<10	<10	<10	<10/<20	<10	<10
+Phenanthrene		17	12	14	<10	10/<10	<10	13
+Anthracene		<10	<10	<10	<10	<10/<10	<10	<10
+1-Me phenanthrene		<10	<10	<10	<10	<10/<10	<10	<10
+Fluoranthene		156	144	149	135	113/108	107	129
+Pyrene		140	130	133	112	95/90	91	107
+Benzo(a)anthracene		37	40	39	30	29/26	20	25
+Chrysene		65	49	55	48	42/38	33	40
+Benzo(b+k)fluoranthen		95	86	90	70	44/57	43	48
+Benzo(e)pyrene		57	52	55	47	39/40	32	35
+Benzo(a)pyrene		22	18	20	15	14/19	10	11
+Perylene		<10	<10	<10	<10	<10/<10	<10	<10
+Indeno(123cd)pyren		22	20	20	15	15/18	11	13
+Dibenzo(ah)anthrace		<10	<10	<10	<10	<10/<10	<10	<10
+Benzo(ghi)perylene		22	21	19	16	13/18	12	12
+
+TOTAL		633	572	594	488	414/414	359	433
+
+
+		SURROGATE RECOVERY (%)						
+
+Naph-d8		49	38	40	38	44/53	46	47
+Anap-d10		72	66	69	54	65/75	65	65
+Phena-d10		106	105	107	105	104/106	100	107
+Fluora-d10		119	121	116	123	116/117	116	125
+Chry-d12		110	109	110	112	110/106	107	113
+BaP-d12		110	110	97	122	118/112	110	114
+BghiP-d12		106	106	84	105	97/103	104	110
+
+C=control  N=native  I=indigenous  P=preset								
+		 	 					
+
+
+
+
+
+
+
+
+
+
+
+
+               PAHs		95MAPR4	95MAIH1	95MAIH2	95MAIH3	95MAIH4	95MASN1	95MASN2
+		I	C	C	C	C	P	P
+
+Naphthalene		<30	<30	<30	<30	<30	<30	<30
+2-Me naphthalene		<30	<30	<30	<30	<30	<30	<30
+1-Me naphthalene		<30	<30	<30	<30	<30	<30	<30
+Biphenyl		<20	<20	<20	<20	<20	<20	<20
+"2,6-Dime naphthalen"		<20	<20	<20	<20	<20	<20	<20
+Acenaphthylene		<10	<10	<10	<10	<10	<10	<10
+Acenaphthene		<10	<10	<10	<10	<10	<10	<10
+"2,3,5-Trime naphthal"		<20	<20	<20	<20	<20	<20	<20
+Fluorene		<10	<10	<10	<10	<10	<10	<10
+Phenanthrene		11	11	<10	<10	<10	12	<10
+Anthracene		<10	<10	<10	<10	<10	<10	<10
+1-Me phenanthrene		<10	<10	<10	<10	<10	<10	<10
+Fluoranthene		124	247	280	319	328	13	11
+Pyrene		104	264	308	336	358	10	<10
+Benzo(a)anthracene		22	105	110	106	134	<10	<10
+Chrysene		36	171	172	174	213	<10	<10
+Benzo(b+k)fluoranthen		49	164	205	170	1246	<10	<10
+Benzo(e)pyrene		37	129	166	162	190	<10	<10
+Benzo(a)pyrene		10	50	53	40	70	<10	<10
+Perylene		<10	11	12	11	14	<10	<10
+Indeno(123cd)pyren		13	22	27	18	29	<10	<10
+Dibenzo(ah)anthrace		<10	<10	10	<10	11	<10	<10
+Benzo(ghi)perylene		13	27	37	30	37	<10	<10
+
+TOTAL		419	1201	1380	1366	2630	35	11
+
+
+		SURROGATE RECOVERY (%)						
+
+Naph-d8		49	24	35	39	46	41	57
+Anap-d10		74	44	45	48	56	63	75
+Phena-d10		104	54	98	94	97	95	94
+Fluora-d10		116	74	127	128	126	116	115
+Chry-d12		106	66	112	113	113	109	104
+BaP-d12		110	65	116	119	127	111	99
+BghiP-d12		102	47	102	102	96	97	100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               PAHs		95MASN3	95MASN4	95NHLH1	95NHLH2	95NHLH3	95NHLH4	95NHLH1
+		P	P	N	N	N	N	C
+
+Naphthalene		<30	<30	<30	<30	<30	<30/<30	<30/<30
+2-Me naphthalene		<30	<30	<30	<30	<30	<30/<30	<30/<30
+1-Me naphthalene		<30	<30	<30	<30	<30	<30/<30	<30/<30
+Biphenyl		<20	<20	<20	<20	<20	<20/<20	<20/<20
+"2,6-Dime naphthalen"		<20	<20	<20	<20	<20	<20/<20	<20/<20
+Acenaphthylene		<10	<10	<10	<10	<10	<10/<10	<10/<10
+Acenaphthene		<10	<10	<10	<10	<10	<10/<10	<10/<10
+"2,3,5-Trime naphthal"		<20	<20	<20	<20	<20	<20/<20	<20/<20
+Fluorene		<10	<10	<10	<10	<10	<10/<10	<10/<10
+Phenanthrene		<10	<10	14	10	17	13/13	<10/<10
+Anthracene		<10	<10	<10	<10	<10	<10/<10	<10/<10
+1-Me phenanthrene		<10	<10	<10	<10	<10	<10/<10	<10/<10
+Fluoranthene		11	13	14	12	17	11/14.	14/14
+Pyrene		<10	<10	12	10	16	10/13.	13/13
+Benzo(a)anthracene		<10	<10	<10	<10	<10	<10/<10	<10/<10
+Chrysene		<10	<10	14	<10	11	<10/10	11/10.
+Benzo(b+k)fluoranthen		<10	<10	19	10	15	10/12.	17/17
+Benzo(e)pyrene		<10	<10	<10	<10	10	10/<10	<10/<10
+Benzo(a)pyrene		<10	<10	<10	<10	<10	<10/<10	<10/<10
+Perylene		<10	<10	<10	<10	<10	<10/<10	<10/<10
+Indeno(123cd)pyren		<10	<10	<10	<10	<10	<10/<10	<10/<10
+Dibenzo(ah)anthrace		<10	<10	<10	<10	<10	<10/<10	<10/<10
+Benzo(ghi)perylene		<10	<10	<10	<10	<10	<10/<10	<10/<10
+
+TOTAL		11	13	73	42	86	54/62	55/54
+
+
+		SURROGATE RECOVERY (%)						
+
+Naph-d8		36	53	39	39	34	32/32	55/49
+Anap-d10		71	75	59	69	73	72/63	70/63
+Phena-d10		97	94	85	105	108	103/98	90/80
+Fluora-d10		114	116	104	101	105	104/101	97/98
+Chry-d12		100	104	102	89	93	86/85	85/90
+BaP-d12		101	101	118	95	93	83/80	72/78
+BghiP-d12		102	97	81	77	76	75/78	68/74
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               PAHs		95NHLH2	95NHLH3	95NHLH4	95NHHS1	95NHHS2	95NHHS3	95NHHS4
+		C	C	C	P	P	P	P
+
+Naphthalene		<30	<30	<30	<30	<30	<30	<30
+2-Me naphthalene		<30	<30	<30	<30	<30	<30	<30
+1-Me naphthalene		<30	<30	<30	<30	<30	<30	<30
+Biphenyl		<20	<20	<20	<20	<20	<20	<20
+"2,6-Dime naphthalen"		<20	<20	<20	<20	<20	<20	<20
+Acenaphthylene		<10	<10	<10	<10	<10	<10	<10
+Acenaphthene		<10	<10	<10	<10	<10	<10	<10
+"2,3,5-Trime naphthal"		<20	<20	<20	<20	<20	<20	<20
+Fluorene		<10	<10	<10	<10	<10	<10	<10
+Phenanthrene		<10	<10	<10	<10	<10	<10	<10
+Anthracene		<10	<10	<10	<10	<10	<10	<10
+1-Me phenanthrene		<10	<10	<10	<10	<10	13	12
+Fluoranthene		13	11	18	16	22	28	22
+Pyrene		12	10	17	13	20	26	19
+Benzo(a)anthracene		<10	<10	<10	<10	<10	<10	<10
+Chrysene		<10	<10	14	<10	10	13	<10
+Benzo(b+k)fluoranthen		15	10	22	<10	12	17	<10
+Benzo(e)pyrene		<10	<10	13	<10	<10	<10	<10
+Benzo(a)pyrene		<10	<10	<10	<10	<10	<10	<10
+Perylene		<10	<10	<10	<10	<10	<10	<10
+Indeno(123cd)pyren		<10	<10	<10	<10	<10	<10	<10
+Dibenzo(ah)anthrace		<10	<10	<10	<10	<10	<10	<10
+Benzo(ghi)perylene		<10	<10	<10	<10	<10	<10	<10
+
+TOTAL		40	31	84	29	64	97	53
+
+
+		SURROGATE RECOVERY (%)						
+
+Naph-d8		68	40	46	62	52	30	45
+Anap-d10		83	61	60	80	67	47	74
+Phena-d10		94	77	85	98	95	94	94
+Fluora-d10		105	88	105	115	94	117	115
+Chry-d12		96	76	91	102	102	105	99
+BaP-d12		89	73	82	99	93	98	88
+BghiP-d12		81	61	74	104	99	100	98
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               PAHs		95MEBC1	95MEBC2	95MEBC3	95MEBC4	95MEKN1	95MEKN2	95MEKN3
+		P	P	P	P	N	N	N
+
+Naphthalene		<30	<30	<30	<30/<30	<30	<30	<30
+2-Me naphthalene		<30	<30	<30	<30/<30	<30	<30	<30
+1-Me naphthalene		<30	<30	<30	<30/<30	<30	<30	<30
+Biphenyl		<20	<20	<20	<20/<20	<20	<20	<20
+"2,6-Dime naphthalen"		<20	<20	<20	<20/<20	<20	<20	<20
+Acenaphthylene		<10	<10	<10	<10/<10	<10	<10	<10
+Acenaphthene		<10	<10	<10	<10/<10	<10	<10	<10
+"2,3,5-Trime naphthal"		<20	<20	<20	<20/<20	<20	<20	<20
+Fluorene		<10	<10	<10	<10/<10	<10	<10	<10
+Phenanthrene		<10	<10	<10	<10/<10	<10	<10	<10
+Anthracene		<10	<10	<10	<10/<10	<10	<10	<10
+1-Me phenanthrene		<10	<10	<10	<10/<10	<10	<10	<10
+Fluoranthene		11	<10	11	<10/<10	19	18	17
+Pyrene		<10	<10	<10	<10/<10	26	25	20
+Benzo(a)anthracene		<10	<10	<10	<10/<10	<10	<10	<10
+Chrysene		<10	<10	<10	<10/<10	15	14	12
+Benzo(b+k)fluoranthen		<10	<10	<10	<10/<10	14	11	<10
+Benzo(e)pyrene		<10	<10	<10	<10/<10	13	12	10
+Benzo(a)pyrene		<10	<10	<10	<10/<10	<10	<10	<10
+Perylene		<10	<10	<10	<10/<10	<10	<10	<10
+Indeno(123cd)pyren		<10	<10	<10	<10/<10	<10	<10	<10
+Dibenzo(ah)anthrace		<10	<10	<10	<10/<10	<10	<10	<10
+Benzo(ghi)perylene		<10	<10	<10	<10/<10	<10	<10	<10
+
+TOTAL		11	ND	11	ND/ND	87	80	59
+
+
+		SURROGATE RECOVERY (%)						
+
+Naph-d8		31	40	35	30/42	48	55	54
+Anap-d10		67	60	61	60/72	65	77	69
+Phena-d10		92	92	98	89/98	83	86	82
+Fluora-d10		109	110	114	102/117	101	100	104
+Chry-d12		100	99	105	94/111	99	94	95
+BaP-d12		99	95	108	94/105	100	89	91
+BghiP-d12		91	91	97	82/92	77	75	75
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               PAHs		95MEKN4	95MEKN1	95MEKN2	95MEKN3	95MEKN4	95MECC1	95MECC2
+		N	C	C	C	C	N	N
+
+Naphthalene		<30	<30	<30	<30	<30	<30	<30
+2-Me naphthalene		<30	<30	<30	<30	<30	<30	<30
+1-Me naphthalene		<30	<30	<30	<30	<30	<30	<30
+Biphenyl		<20	<20	<20	<20	<20	<20	<20
+"2,6-Dime naphthalen"		<20	<20	<20	<20	<20	<20	<20
+Acenaphthylene		<10	<10	<10	<10	<10	<10	<10
+Acenaphthene		<10	<10	<10	<10	<10	<10	<10
+"2,3,5-Trime naphthal"		<20	<20	<20	<20	<20	<20	<20
+Fluorene		<10	<10	<10	<10	<10	<10	<10
+Phenanthrene		<10	<10	<10	<10	<10	<10	<10
+Anthracene		<10	<10	<10	<10	<10	<10	<10
+1-Me phenanthrene		<10	<10	<10	<10	<10	<10	<10
+Fluoranthene		13	21	16	28	18	24	23
+Pyrene		17	28	23	53	26	24	21
+Benzo(a)anthracene		<10	<10	<10	<10	<10	10	<10
+Chrysene		<10	18	14	27	16	15	12
+Benzo(b+k)fluoranthen		<10	17	13	22	14	33	27
+Benzo(e)pyrene		<10	15	12	33	13	18	15
+Benzo(a)pyrene		<10	<10	<10	12	<10	<10	<10
+Perylene		<10	10	<10	13	<10	<10	<10
+Indeno(123cd)pyren		<10	<10	<10	<10	<10	14	13
+Dibenzo(ah)anthrace		<10	<10	<10	<10	<10	<10	<10
+Benzo(ghi)perylene		<10	<10	<10	26	<10	<10	<10
+
+TOTAL		30	109	78	214	87	138	111
+
+
+		SURROGATE RECOVERY (%)						
+
+Naph-d8		44	33	43	46	47	34	43
+Anap-d10		60	53	63	64	73	64	76
+Phena-d10		82	78	83	86	84	74	78
+Fluora-d10		95	100	98	98	98	88	107
+Chry-d12		87	98	90	98	91	85	99
+BaP-d12		79	92	86	105	77	81	97
+BghiP-d12		72	78	68	77	75	78	90
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               PAHs		95MECC3	95MECC4	95MECC1	95MECC2	95MECC3	95MECC4	95MEDM1
+		C	C	N	N	N	N	C/1
+
+Naphthalene		<30	<30	<30	<30	<30	<30	<30
+2-Me naphthalene		<30	<30	<30	<30	<30	<30	<30
+1-Me naphthalene		<30	<30	<30	<30	<30	<30	<30
+Biphenyl		<20	<20	<20	<20	<20	<20	<20
+"2,6-Dime naphthalen"		<20	<20	<20	<20	<20	<20	<20
+Acenaphthylene		<10	<10	<10	<10	<10	<10	<10
+Acenaphthene		<10	<10	<10	<10	<10	<10	<10
+"2,3,5-Trime naphthal"		<20	<20	<20	<20	<20	<20	<20
+Fluorene		<10	<10	<10	<10	<10	<10	<10
+Phenanthrene		<10	<10	19	18	20	20	<10
+Anthracene		<10	<10	<10	<10	<10	<10	<10
+1-Me phenanthrene		<10	<10	<10	<10	<10	<10	<10
+Fluoranthene		24	20	38	35	29	26	11
+Pyrene		23	19	37	33	30	26	<10
+Benzo(a)anthracene		<10	<10	13	<10	<10	<10	<10
+Chrysene		13	12	26	21	18	15	<10
+Benzo(b+k)fluoranthen		29	25	35	26	24	20	10
+Benzo(e)pyrene		14	17	23	17	16	13	<10
+Benzo(a)pyrene		<10	<10	11	<10	<10	<10	<10
+Perylene		<10	<10	<10	<10	<10	<10	<10
+Indeno(123cd)pyren		12	12	<10	<10	12	<10	<10
+Dibenzo(ah)anthrace		<10	<10	<10	<10	<10	<10	<10
+Benzo(ghi)perylene		<10	<10	10	<10	<10	<10	<10
+
+TOTAL		115	105	212	150	149	120	21
+
+
+		SURROGATE RECOVERY (%)						
+
+Naph-d8		32	30	43	35	37	36	34
+Anap-d10		61	59	73	63	70	81	68
+Phena-d10		62	82	108	90	102	112	85
+Fluora-d10		107	104	103	90	107	108	110
+Chry-d12		88	99	85	78	94	95	100
+BaP-d12		115	92	91	80	97	108	94
+BghiP-d12		90	90	75	65	78	81	95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               PAHs		95MEDM2	95MEDM3	95MEDM4	95MEDM1	95MEDM1	95MEDM2	95MEDM2
+		C/1	C/1	C/1	N/1	N/2	N/1	N/2
+
+Naphthalene		<30	<30	<30	<30	<30	<30	<30/<30
+2-Me naphthalene		<30	<30	<30	<30	<30	<30	<30/<30
+1-Me naphthalene		<30	<30	<30	<30	<30	<30	<30/<30
+Biphenyl		<20	<20	<20	<20	<20	<20	<20/<20
+"2,6-Dime naphthalen"		<20	<20	<20	<20	<20	<20	<20/<20
+Acenaphthylene		<10	<10	<10	<10	<10	<10	<10/<10
+Acenaphthene		<10	<10	<10	<10	<10	<10	<10/<10
+"2,3,5-Trime naphthal"		<20	<20	<20	<20	<20	<20	<20/<20
+Fluorene		<10	<10	<10	<10	<10	<10	<10/<10
+Phenanthrene		<10	<10	<10	<10	<10	<10	<10/<10
+Anthracene		<10	<10	<10	<10	<10	<10	<10/<10
+1-Me phenanthrene		<10	<10	<10	<10	<10	<10	<10/<10
+Fluoranthene		11	<10	11	11	<10	<10	11/<10
+Pyrene		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(a)anthracene		<10	<10	<10	<10	<10	<10	<10/<10
+Chrysene		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(b+k)fluoranthen		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(e)pyrene		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(a)pyrene		<10	<10	<10	<10	<10	<10	<10/<10
+Perylene		<10	<10	<10	<10	<10	<10	<10/<10
+Indeno(123cd)pyren		<10	<10	<10	<10	<10	<10	<10/<10
+Dibenzo(ah)anthrace		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(ghi)perylene		<10	<10	<10	<10	<10	<10	<10/<10
+
+TOTAL		11	ND	11	11	ND	ND	11/ND
+
+
+		SURROGATE RECOVERY (%)						
+
+Naph-d8		34	30	33	33	37	41	35/33
+Anap-d10		69	59	65	55	55	68	58/53
+Phena-d10		88	79	86	75	68	76	72/70
+Fluora-d10		113	104	110	107	95	98	99/100
+Chry-d12		99	97	99	99	84	92	94/89
+BaP-d12		94	90	94	96	77	84	83/83
+BghiP-d12		95	85	92	85	75	77	82/87
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               PAHs		95MEDM3	95MEDM3	95MEDM4	95MEDM4	95NSBE1	95NSBE2	95NSBE3
+		N/1	N/2	N/1	N/2	N	N	N
+
+Naphthalene		<30	<30	<30	<30	<30	<30	<30/<30
+2-Me naphthalene		<30	<30	<30	<30	<30	<30	<30/<30
+1-Me naphthalene		<30	<30	<30	<30	<30	<30	<30/<30
+Biphenyl		<20	<20	<20	<20	<20	<20	<20/<20
+"2,6-Dime naphthalen"		<20	<20	<20	<20	<20	<20	<20/<20
+Acenaphthylene		<10	<10	<10	<10	<10	<10	<10/<10
+Acenaphthene		<10	<10	<10	<10	<10	<10	<10/<10
+"2,3,5-Trime naphthal"		<20	<20	<20	<20	<20	<20	<10/<10
+Fluorene		<10	<10	<10	<10	<10	<10	<10/<10
+Phenanthrene		<10	<10	<10	<10	<10	<10	<10/<10
+Anthracene		<10	<10	<10	<10	<10	<10	<10/<10
+1-Me phenanthrene		<10	<10	<10	<10	<10	<10	<10/<10
+Fluoranthene		<10	<10	<10	<10	<10	<10	<10/<10
+Pyrene		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(a)anthracene		<10	<10	<10	<10	<10	<10	<10/<10
+Chrysene		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(b+k)fluoranthen		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(e)pyrene		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(a)pyrene		<10	<10	<10	<10	<10	<10	<10/<10
+Perylene		<10	<10	<10	<10	<10	<10	<10/<10
+Indeno(123cd)pyren		<10	<10	<10	<10	<10	<10	<10/<10
+Dibenzo(ah)anthrace		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(ghi)perylene		<10	<10	<10	<10	<10	<10	<10/<10
+
+TOTAL		ND	ND	ND	ND	ND	ND	ND/ND
+
+
+		SURROGATE RECOVERY (%)						
+
+Naph-d8		30	34	36	37	33	32	38/31
+Anap-d10		66	62	78	66	60	59	69/59
+Phena-d10		95	78	110	75	75	77	74/64
+Fluora-d10		96	103	105	103	97	104	106/102
+Chry-d12		90	96	102	98	90	96	95/93
+BaP-d12		82	85	93	92	89	90	91/88
+BghiP-d12		81	83	81	88	83	88	85/85
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               PAHs		95NSBE4	95NSCW1	95NSCW2	95NSCW3	95NSCW4	95NBNR1	95NBNR2
+		N	N	N	N	N	N	N
+
+Naphthalene		<30	<30	<30	<30	<30	<30	<30
+2-Me naphthalene		<30	<30	<30	<30	<30	<30	<30
+1-Me naphthalene		<30	<30	<30	<30	<30	<30	<30
+Biphenyl		<20	<20	<20	<20	<20	<20	<20
+"2,6-Dime naphthalen"		<20	<20	<20	<20	<20	<20	<20
+Acenaphthylene		<10	<10	<10	<10	<10	<10	<10
+Acenaphthene		<10	<10	<10	<10	<10	<10	<10
+"2,3,5-Trime naphthal"		<20	<20	<20	<20	<20	<20	<20
+Fluorene		<10	<10	<10	<10	<10	<10	<10
+Phenanthrene		<10	<10	<10	<10	<10	<10	<10
+Anthracene		<10	<10	<10	<10	<10	<10	<10
+1-Me phenanthrene		<10	<10	<10	<10	<10	<10	<10
+Fluoranthene		<10	<10	<10	<10	<10	<10	<10
+Pyrene		<10	<10	<10	<10	<10	<10	<10
+Benzo(a)anthracene		<10	<10	<10	<10	<10	<10	<10
+Chrysene		<10	<10	<10	<10	<10	<10	<10
+Benzo(b+k)fluoranthen		<10	<10	<10	<10	<10	<10	<10
+Benzo(e)pyrene		<10	<10	<10	<10	<10	<10	<10
+Benzo(a)pyrene		<10	<10	<10	<10	<10	<10	<10
+Perylene		<10	<10	<10	<10	<10	<10	<10
+Indeno(123cd)pyren		<10	<10	<10	<10	<10	<10	<10
+Dibenzo(ah)anthrace		<10	<10	<10	<10	<10	<10	<10
+Benzo(ghi)perylene		<10	<10	<10	<10	<10	<10	<10
+
+TOTAL		ND	ND	ND	ND	ND	ND	ND
+
+
+
+
+Naph-d8		35	39	40	45	34	35	31
+Anap-d10		58	62	59	61	57	51	48
+Phena-d10		64	84	95	98	90	89	79
+Fluora-d10		97	98	104	116	110	105	90
+Chry-d12		91	94	98	102	99	96	84
+BaP-d12		83	90	86	85	87	93	80
+BghiP-d12		80	89	85	94	84	88	95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               PAHs		95NBNR3	95NBNR4	95NBMI1	95NBMI2	95NBMI3	95NBMI4	95NBHI1
+		N	N	C	C	C	C	C
+
+Naphthalene		<30	<30	<30	<30	<30	<30	<30
+2-Me naphthalene		<30	<30	<30	<30	<30	<30	<30
+1-Me naphthalene		<30	<30	<30	<30	<30	<30	<30
+Biphenyl		<20	<20	<20	<20	<20	<20	<20
+"2,6-Dime naphthalen"		<20	<20	<20	<20	<20	<20	<20
+Acenaphthylene		<10	<10	<10	<10	<10	<10	<10
+Acenaphthene		<10	<10	<10	<10	<10	<10	<10
+"2,3,5-Trime naphthal"		<20	<20	<20	<20	<20	<20	<20
+Fluorene		<10	<10	<10	<10	<10	<10	<10
+Phenanthrene		<10	<10	<10	<10	<10	<10	<10
+Anthracene		<10	<10	<10	<10	<10	<10	<10
+1-Me phenanthrene		<10	<10	<10	<10	<10	<10	<10
+Fluoranthene		<10	<10	<10	<10	<10	<10	<10
+Pyrene		<10	<10	<10	<10	<10	<10	<10
+Benzo(a)anthracene		<10	<10	<10	<10	<10	<10	<10
+Chrysene		<10	<10	<10	<10	<10	<10	<10
+Benzo(b+k)fluoranthen		<10	<10	<10	<10	<10	<10	<10
+Benzo(e)pyrene		<10	<10	<10	<10	<10	<10	<10
+Benzo(a)pyrene		<10	<10	<10	<10	<10	<10	<10
+Perylene		<10	<10	<10	<10	<10	<10	<10
+Indeno(123cd)pyren		<10	<10	<10	<10	<10	<10	<10
+Dibenzo(ah)anthrace		<10	<10	<10	<10	<10	<10	<10
+Benzo(ghi)perylene		<10	<10	<10	<10	<10	<10	<10
+
+TOTAL		ND	ND	ND	ND	ND	ND	ND
+
+
+		SURROGATE RECOVERY (%)						
+
+Naph-d8		51	51	33	37	52	43	35
+Anap-d10		95	70	74	60	57	61	55
+Phena-d10		136	94	88	83	77	74	80
+Fluora-d10		132	108	98	81	95	90	90
+Chry-d12		96	91	99	98	107	100	99
+BaP-d12		93	95	122	107	106	95	101
+BghiP-d12		82	89	104	74	86	85	88
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               PAHs		95NBHI2	95NBHI3	95NBHI4	95NBHI1	95NBHI2	95NBHI3	95NBHI4
+		C	C	C	N	N	N	N
+
+Naphthalene		<30	<30	<30	<30	<30	<30	<30/<30
+2-Me naphthalene		<30	<30	<30	<30	<30	<30	<30/<30
+1-Me naphthalene		<30	<30	<30	<30	<30	<30	<30/<30
+Biphenyl		<20	<20	<20	<20	<20	<20	<20<20
+"2,6-Dime naphthalen"		<20	<20	<20	<20	<20	<20	<20<20
+Acenaphthylene		<10	<10	<10	<10	<10	<10	<10/<10
+Acenaphthene		<10	<10	<10	<10	<10	<10	<10/<10
+"2,3,5-Trime naphthal"		<20	<20	<20	<20	<20	<20	<20<20
+Fluorene		<10	<10	<10	<10	<10	<10	<10/<10
+Phenanthrene		<10	<10	<10	<10	<10	<10	<10/<10
+Anthracene		<10	<10	<10	<10	<10	<10	<10/<10
+1-Me phenanthrene		<10	<10	<10	<10	<10	<10	<10/<10
+Fluoranthene		<10	<10	<10	<10	<10	<10	<10/<10
+Pyrene		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(a)anthracene		<10	<10	<10	<10	<10	<10	<10/<10
+Chrysene		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(b+k)fluoranthen		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(e)pyrene		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(a)pyrene		<10	<10	<10	<10	<10	<10	<10/<10
+Perylene		<10	<10	<10	<10	<10	<10	<10/<10
+Indeno(123cd)pyren		<10	<10	<10	<10	<10	<10	<10/<10
+Dibenzo(ah)anthrace		<10	<10	<10	<10	<10	<10	<10/<10
+Benzo(ghi)perylene		<10	<10	<10	<10	<10	<10	<10/<10
+
+TOTAL		ND	ND	ND	ND	ND	ND	ND/ND
+
+
+		SURROGATE RECOVERY (%)						
+
+Naph-d8		59	59	45	38	50	39	47/48
+Anap-d10		73	63	59	63	68	60	66/58
+Phena-d10		85	82	78	83	82	85	88/76
+Fluora-d10		92	95	93	92	91	96	96/89
+Chry-d12		102	97	96	93	93	97	101/91
+BaP-d12		99	91	94	86	88	89	93/93
+BghiP-d12		78	86	93	75	76	80	80/75

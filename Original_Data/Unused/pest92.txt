@@ -1,0 +1,399 @@
+		                1992  GULF  OF  MAINE  MUSSEL  SAMPLES							
+
+
+			Chlorinated Pesticides			(ng/g)			
+
+
+Chlorinated		MASN1N	MASN2N	MASN3N	MASN1C	MASN2C	MASN3C	MANI1C	MANI2C
+Pesticides		OCT	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+HCB		<2	<2	<2	<2	<2/<2	<2	<2	<2/<2
+r-BHC		<2	<2	<2	<2	<2/<2	<2	<2	2.1/2.6
+Heptachlor		<2	<2	<2	<2	<2/<2	<2	<2	<2/<2
+Aldrin		<2	<2	<2	<2	<2/<2	<2	<2	<2/<2
+Hepta epoxide		<2	<2	<2	<2	<2/<2	<2	<2	<2/<2
+"o,p'-DDE"		<2	<2	<2	<2	<2/<2	<2	<2	<2/<2
+a-Endosulfan		<2	<2	<2	<2	<2/<2	<2	<2	<2/<2
+cis-Chlordane		2.1	2	2	2	<2/<2	2.1	15	12/16.
+trans-Nonachlor		2	<2	<2	<2	<2/<2	<2	14	11/15.
+"p,p'-DDE"		15	14	13	10	8/9.	10	35	28/36
+Dieldrin		<2	<2	<2	<2	<2/<2	<2	4.4	4.2/5.4
+"o,p'-DDD"		8	7	7	8	5.6/6.7	2.1	14	18/20
+b-Endosulfan		<2	<2	<2	<2	<2/<2	<2	<2	<2/<2
+"p,p'-DDD"		9.1	8.6	8.6	5.4	4.9/4.6	8.5	30	25/32
+"o,p'-DDT"		<2	<2	<2	<2	<2/<2	<2	<2	<2/<2
+"p,p'-DDT"		4.7	5.7	5.6	4.7	<2/<2	2.1	7.2	7.3/7.1
+Mirex		<2	<2	<2	<2	<2/<2	<2	<2	<2/<2
+
+Total		40.9	6-Feb	36.2	28.1	18.5	22.7	86.2	107.6/134.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		                1992  GULF  OF  MAINE  MUSSEL  SAMPLES							
+
+
+			Chlorinated Pesticides			(ng/g)			
+
+
+Chlorinated		MANI3C	MANI1N	MANI2N	MANI3N	NHLP1P	NHLP2P	NHLP3P	NHSI1P
+Pesticides		OCT	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+HCB		<2	<2	<2	<2/<2	<2	<2	<2/<2	<2
+r-BHC		<2	<2	<2	<2/<2	<2	<2	<2/<2	<2
+Heptachlor		<2	<2	<2	<2/<2	<2	<2	<2/<2	<2
+Aldrin		<2	<2	<2	<2/<2	<2	<2	<2/<2	<2
+Hepta epoxide		<2	<2	<2	<2/<2	<2	<2	<2/<2	<2
+"o,p'-DDE"		<2	<2	<2	<2/<2	<2	<2	<2/<2	<2
+a-Endosulfan		<2	<2	<2	<2/<2	<2	<2	<2/<2	<2
+cis-Chlordane		16	8.1	8.9	7.1/12	<2	<2	<2/<2	<2
+trans-Nonachlor		14	7.9	9.1	7.2/12	<2	<2	<2/<2	<2
+"p,p'-DDE"		28	19	24	20/30	9	9	8/7.5	9.5
+Dieldrin		5	2.5	2.6	2.3/3	<2	<2	<2/<2	<2
+"o,p'-DDD"		16	11	9.7	9.7/10	<2	3.3	<2/<2	2
+b-Endosulfan		<2	<2	<2	<2/<2	<2	<2	<2/<2	<2
+"p,p'-DDD"		30	14	17	15/22	6.6	5.1	4.8/4.3	8
+"o,p'-DDT"		<2	<2	<2	<2/<2	<2	<2	<2/<2	<2
+"p,p'-DDT"		7.8	3	4.2	3.5/4.3	<2	<2	<2/<2	<2
+Mirex		<2	<2	<2	<2/<2	<2	<2	<2/<2	<2
+
+Total		116.8	65.5	75.5	64.8/93.3	15.6	12.3	12.8/11.8	19.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		                1992  GULF  OF  MAINE  MUSSEL  SAMPLES							
+
+
+			Chlorinated Pesticides			(ng/g)			
+
+
+Chlorinated		NHSI2P	NHSI3P	NHOP1P	NHOP2P	NHOP3P	NHOP4P	NHOP5P	NHOP6N
+Pesticides		OCT	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+HCB		<2	<2	<2	<2	<2	<2	<2	<2
+r-BHC		<2	<2	<2	<2	<2	<2	<2	<2
+Heptachlor		<2	<2	<2	<2	<2	<2	<2	<2
+Aldrin		<2	<2	<2	<2	<2	<2	<2	<2
+Hepta epoxide		<2	<2	<2	<2	<2	<2	<2	<2
+"o,p'-DDE"		<2	<2	<2	<2	<2	<2	<2	<2
+a-Endosulfan		<2	<2	<2	<2	<2	<2	<2	<2
+cis-Chlordane		<2	<2	<2	<2	<2	<2	<2	<2
+trans-Nonachlor		<2	<2	<2	<2	<2	<2	<2	<2
+"p,p'-DDE"		7	12/11.	6	7.5	5.2	4.8	6.8	5.2/6
+Dieldrin		<2	<2	<2	<2	<2	<2	<2	<2
+"o,p'-DDD"		<2	3.7/3.2	<2	<2	<2	<2	<2	<2
+b-Endosulfan		<2	<2	<2	<2	<2	<2	<2	<2
+"p,p'-DDD"		5.3	7.4/6.5	3	3.1	2	2.4	3.9	2.7/2.4
+"o,p'-DDT"		<2	<2	<2	<2	<2	<2	<2	<2
+"p,p'-DDT"		<2	<2	<2	<2	<2	<2	<2	<2
+Mirex		<2	<2	<2	<2	<2	<2	<2	<2
+
+Total		12.3	23.1/20.7	9	10.6	7.2	7.2	10.7	7.9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		                1992  GULF  OF  MAINE  MUSSEL  SAMPLES							
+
+
+			Chlorinated Pesticides			(ng/g)			
+
+
+Chlorinated		MEKN1C	MEKN2C	MEKN3C	MEKN1N	MEKN2N	MEKN3N	MESH1N	MESH2N
+Pesticides		OCT	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+HCB		<2	<2	<2	<2/<2	<2	<2	<2	<2
+r-BHC		<2	<2	<2	<2/<2	<2	<2	<2	<2
+Heptachlor		<2	<2	<2	<2/<2	<2	<2	<2	<2
+Aldrin		<2	<2	<2	<2/<2	<2	<2	<2	<2
+Hepta epoxide		<2	<2	<2	<2/<2	<2	<2	<2	<2
+"o,p'-DDE"		<2	<2	<2	<2/<2	<2	<2	<2	<2
+a-Endosulfan		<2	<2	<2	<2/<2	<2	<2	<2	<2
+cis-Chlordane		<2	<2	<2	<2/<2	<2	<2	<2	<2
+trans-Nonachlor		<2	<2	<2	<2/<2	<2	<2	<2	<2
+"p,p'-DDE"		5	7.2	6.5	7.7/8.2	7.3	6.2	8.9	7
+Dieldrin		<2	<2	<2	<2/<2	<2	<2	<2	<2
+"o,p'-DDD"		<2	<2	<2	2.6/2.5	<2	<2	<2	<2
+b-Endosulfan		<2	<2	<2	<2/<2	<2	<2	<2	<2
+"p,p'-DDD"		4.1	5.7	5	4.9/5.9	5	3.6	4.9	4.3
+"o,p'-DDT"		<2	<2	<2	<2/<2	<2	<2	<2	<2
+"p,p'-DDT"		<2	<2	<2	<2/<2	<2	<2	<2	<2
+Mirex		<2	<2	<2	<2/<2	<2	<2	<2	<2
+
+Total		9.1	12.9	11.5	15.2	12.3	9.8	13.8	11.3
+
+
+
+
+
+
+
+
+
+
+
+
+		                1992  GULF  OF  MAINE  MUSSEL  SAMPLES				
+
+
+			Chlorinated Pesticides			(ng/g)
+
+
+Chlorinated		MESH3N	MEKN1P	MEKN2P	NBSI1N	NBSI2N	NBSI3N	NBHI1P	NBHI2P
+Pesticides		OCT	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+HCB		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+r-BHC		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+Heptachlor		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+Aldrin		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+Hepta epoxide		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+"o,p'-DDE"		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+a-Endosulfan		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+cis-Chlordane		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+trans-Nonachlor		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+"p,p'-DDE"		9.2/9.7	4.3	6.2	4.3	3	2.7	3.4/3.4	3.7
+Dieldrin		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+"o,p'-DDD"		<2/2.2	<2	<2	<2	<2	<2	<2/<2	<2
+b-Endosulfan		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+"p,p'-DDD"		5.4/6.4	3.3	4.3	2.1	<2	<2	2/<2	<2
+"o,p'-DDT"		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+"p,p'-DDT"		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+Mirex		<2/<2	<2	<2	<2	<2	<2	<2/<2	<2
+
+Total		14.6/16.1	7.6	10.5	6.4	3	2.7	5.4/3.4	3.7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		                1992  GULF  OF  MAINE  MUSSEL  SAMPLES				
+
+
+			Chlorinated Pesticides			(ng/g)
+
+
+Chlorinated		NBHI3P	NBHI1N	NBHI2N	NBHI3N	NBHI1C	NBHI2C	NBHI3C	NBSC1N
+Pesticides		OCT	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+HCB		<2	<2	<2/<2	<2	<2	<2	<2	<2
+r-BHC		<2	<2	<2/<2	<2	<2	<2	<2	<2
+Heptachlor		<2	<2	<2/<2	<2	<2	<2	<2	<2
+Aldrin		<2	<2	<2/<2	<2	<2	<2	<2	<2
+Hepta epoxide		<2	<2	<2/<2	<2	<2	<2	<2	<2
+"o,p'-DDE"		<2	<2	<2/<2	<2	<2	<2	<2	<2
+a-Endosulfan		<2	<2	<2/<2	<2	<2	<2	<2	<2
+cis-Chlordane		<2	<2	<2/<2	<2	<2	<2	<2	<2
+trans-Nonachlor		<2	<2	<2/<2	<2	<2	<2	<2	<2
+"p,p'-DDE"		4.2	2.9	3.0/2.8	3.7	3.7	3.8	3.8	3.8
+Dieldrin		<2	<2	<2/<2	<2	<2	<2	<2	<2
+"o,p'-DDD"		<2	<2	<2/<2	<2	<2	<2	<2	<2
+b-Endosulfan		<2	<2	<2/<2	<2	<2	<2	<2	<2
+"p,p'-DDD"		2.1	<2	<2/<2	<2	2.6	2	<2	<2
+"o,p'-DDT"		<2	<2	<2/<2	<2	<2	<2	<2	<2
+"p,p'-DDT"		<2	<2	<2/<2	<2	<2	<2	<2	<2
+Mirex		<2	<2	<2/<2	<2	<2	<2	<2	<2
+
+Total		6.3	2.9	3.0/2.8	3.7	6.3	5.8	3.8	3.8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		                1992  GULF  OF  MAINE  MUSSEL  SAMPLES
+
+
+			Chlorinated Pesticides			(ng/g)			
+
+
+Chlorinated		NBSC2N	NBSC3N	NSDI1N	NSDI2N	NSDI3N	NSBC1C	NSBC2C	NSBC3C
+Pesticides		OCT	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+HCB		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+r-BHC		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+Heptachlor		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+Aldrin		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+Hepta epoxide		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+"o,p'-DDE"		<2	<2/<2	<2	<2	<2	<2/<2	<2	2.5
+a-Endosulfan		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+cis-Chlordane		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+trans-Nonachlor		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+"p,p'-DDE"		4	3.9/3.6	4	3.6	3.6	2.8/2.7	2.4	2.7
+Dieldrin		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+"o,p'-DDD"		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+b-Endosulfan		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+"p,p'-DDD"		2	<2/<2	2.3	<2	2.1	<2/<2	2.6	<2
+"o,p'-DDT"		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+"p,p'-DDT"		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+Mirex		<2	<2/<2	<2	<2	<2	<2/<2	<2	<2
+
+Total		6	3.9	6.3	3.6	5.7	2.8	5	5.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+		                1992  GULF  OF  MAINE  MUSSEL  SAMPLES							
+
+
+			Chlorinated Pesticides			(ng/g)			
+
+
+Chlorinated		NSDI1C	NSDI2C	NSDI3C	NBMI1N	NBMI2N	NBMI3N	NBMI1C	NBMI2C
+Pesticides		OCT	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+HCB		<2	<2	<2/<2	<2	<2	<2	<2/<2	<2
+r-BHC		<2	<2	<2/<2	<2	<2	<2	<2/<2	<2
+Heptachlor		<2	<2	<2/<2	<2	<2	<2	<2/<2	<2
+Aldrin		<2	<2	<2/<2	<2	<2	<2	<2/<2	<2
+Hepta epoxide		<2	<2	<2/<2	<2	<2	<2	<2/<2	<2
+"o,p'-DDE"		2.3	<2	<2/<2	<2	<2	<2	<2/<2	<2
+a-Endosulfan		<2	<2	<2/<2	<2	<2	<2	<2/<2	<2
+cis-Chlordane		<2	<2	<2/<2	<2	<2	<2	<2/<2	<2
+trans-Nonachlor		<2	<2	<2/<2	<2	<2	<2	<2/<2	<2
+"p,p'-DDE"		2.7	3	<2/2.7	4.5	5.1	3.2	6.3/3.9	4.2
+Dieldrin		<2	<2	<2/<2	<2	<2	<2	<2/<2	<2
+"o,p'-DDD"		<2	<2	<2/<2	<2	<2	<2	<2/3.2	<2
+b-Endosulfan		<2	<2	<2/<2	<2	<2	<2	<2/<2	<2
+"p,p'-DDD"		3.4	<2	2.2/2.3	3.9	3.3	2.5	4.3/3.7	2.7
+"o,p'-DDT"		<2	<2	<2/<2	<2	<2	<2	<2/<2	<2
+"p,p'-DDT"		<2	<2	<2/<2	3.1	<2	<2	2.1/<2	<2
+Mirex		<2	<2	<2/<2	<2	<2	<2	<2/<2	<2
+
+Total		8.4	3	2.2/4	8.4	8.4	5.7	10.6/7.6	6.9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		                1992  GULF  OF  MAINE  MUSSEL  SAMPLES				
+
+
+			Chlorinated Pesticides			(ng/g)
+
+
+Chlorinated		NBMIC				
+Pesticides		OCT				
+
+HCB		<2				
+r-BHC		<2				
+Heptachlor		<2				
+Aldrin		<2				
+Hepta epoxide		<2
+"o,p'-DDE"		<2
+a-Endosulfan		<2
+cis-Chlordane		<2
+trans-Nonachlor		<2
+"p,p'-DDE"		3.4
+Dieldrin		<2
+"o,p'-DDD"		<2
+b-Endosulfan		<2
+"p,p'-DDD"		3.4
+"o,p'-DDT"		<2
+"p,p'-DDT"		<2
+Mirex		<2
+
+Total		2.2

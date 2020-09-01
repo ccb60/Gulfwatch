@@ -1,0 +1,163 @@
+						1992 GULFWATCH METAL CONCENTRATIONS IN UG/G DRY WEIGHT								
+														
+				MASSACHUSETTS										
+
+Year	Station	Sample	Days	Ag	Cd	Cr	Cu	Pb	Hg	Ni	Zn	Al	Fe	% Solids
+			Deployed											
+														
+1992	Sandwich	1P	0	0.67		0.7		2.2	0.2	1	95	14	190	13.00
+1992	Sandwich	2P	0	0.81		1		2.4	0.1	1	100	18	200	12.00
+
+1992	Nut Island	1N	60	0.88		1.8		2.1	0.2	1.3	120	130	340	17.00
+1992	Nut Island	2N	60	0.37		2.4		7.8	0.3	1	160	110	330	17.00
+
+1992	Nut Island	1C	60	0.8		1.4		5.7	0.1	1	120	130	350	14.00
+1992	Nut Island	2C	60	4		2		7.1	0.3	0.9	140	98	380	17.00
+1992	Nut Island	3C	60	0.57		1.4		5.6	0.2	1.1	130	150	350	16.00
+
+1992	Sandwich	1C	60	0.41		0.8		0.8	0.1	1	86	65	250	14.00
+1992	Sandwich	2C	60	0.33		1		1	0.1	1	94	60	280	13.00
+1992	Sandwich	3C	60	0.58		0.8		0.8	0.2	1.7	110	62	280	14.00
+														
+	                                                        NEW HAMPSHIRE													
+														
+Year	Station	Sample	Days	Ag	Cd	Cr	Cu	Pb	Hg	Ni	Zn	Al	Fe	% Solids
+			Deployed											
+														
+1992	Shapleigh Island	1N	0	0.07		4.4		5.1	0.6	2.7	190	460	850	12.00
+1992	Shapleigh Island	2N	0	0.06		5.7		6.1	0.6	3.1	190	360	690	13.00
+1992	Shapleigh Island	3N	0	0.09		3.7		6.1	0.6	2.5	180	230	530	13.00
+														
+1992	Shapleigh Island	1N	60	0.08		4.4		5.2	0.6	2.3	150	380	720	12.00
+1992	Shapleigh Island	2N	60	0.08		5.3		6.6	0.7	3.4	180	410	820	11.00
+1992	Shapleigh Island	3N	60	0.07		3.9		5.1	0.7	2.5	170	320	710	13.00
+														
+1992	Shapleigh Island	1C	0	0.11		4.4		4	0.6	3.2	190	410	760	11.00
+1992	Shapleigh Island	2C	0	0.15		5.9		4.4	0.7	4.6	160	380	770	11.00
+1992	Shapleigh Island	3C	0	0.15		5.1		5	0.5	3.8	150	430	750	12.00
+														
+1992	Shapleigh Island	1C	60	0.14		4		3.5	0.5	2.8	150	350	640	12.00
+1992	Shapleigh Island	2C	60	0.14		4.6		3.6	0.6	3.5	180	370	700	12.00
+1992	Shapleigh Island	3C	60	0.1		4		3.2	0.6	3	160	340	720	11.00
+
+1992	Little Harbor	1N	0	0.03		3.7		5.5	0.7	2.9	170	210	500	11.00
+1992	Little Harbor	2N	0	0.05		4.5		5	0.5	2.8	170	280	550	13.00
+1992	Little Harbor	3N	0	0.06		8.2		6.1	0.6	4.3	220	200	530	12.00
+														
+1992	Little Harbor	1N	60	0.06		3.8		4.1	0.5	2.9	300	340	530	13.00
+1992	Little Harbor	2N	60	0.06		5.5		4.2	0.5	3.8	180	420	630	13.00
+1992	Little Harbor	3N	60	0.06		3.3		4.4	0.5	2.6	170	270	470	13.00
+
+1992	Little Harbor	1C	0	0.1		3.4		3.6	0.6	3.3	180	300	670	12.00
+1992	Little Harbor	2C	0	0.1		2.9		3.6	0.6	2.9	150	340	640	13.00
+1992	Little Harbor	3C	0	0.09		3.7		3.6	0.7	3	140	310	640	12.00
+
+1992	Little Harbor	1C	60	0.14		4.1		4.3	0.6	3.4	280	320	680	12.00
+1992	Little Harbor	2C	60	0.1		3.5		3.8	0.7	3.2	160	330	710	13.00
+1992	Little Harbor	3C	60	0.1		4.7		3.1	0.5	3.7	180	370	710	12.00
+														
+	                                                                 MAINE													
+														
+Year	Station	Sample	Days	Ag	Cd	Cr	Cu	Pb	Hg	Ni	Zn	Al	Fe	% Solids
+			Deployed											
+														
+1992	Broad Cove	1P	0	0.02		1.2		0.3	0.1	1.5	92	73	220	15.00
+1992	Broad Cove	2P	0	0.02		1		0.5	0.1	1.7	91	100	260	15.00
+1992	Broad Cove	3P	0	0.02		0.9		0.5	0.2	1.8	84	67	230	15.00
+
+1992	Kennebec River	1P	0	0.05		1		1	0.2	1.7	77	120	340	11.00
+1992	Kennebec River	2P	0	0.06		1		0.5	0.1	1.6	79	120	290	12.00
+1992	Kennebec River	3P	0	0.06		1.2		0.4	0.1	1.6	75	130	340	13.00
+
+1992	Kennebec River	1N	30	0.04		1.6		0.7	0.2	1.7	73	130	280	6.70
+1992	Kennebec River	2N	30	0.05		2.1		0.3	0.2	1.5	56	110	290	11.00
+1992	Kennebec River	3N	30	0.05		3.8		1	0.1	2.1	65	120	300	9.40
+
+1992	Kennebec River	1C	30	0.05		2.2		1	0.1	2.2	82	140	330	12.00
+1992	Kennebec River	2C	30	0.06		2.1		1	0.1	2.1	82	250	370	12.00
+1992	Kennebec River	3C	30	0.07		2.7		1.4	0.1	2.2	93	230	370	14.00
+	                                                          													
+1992	Kennebec River	1C	60	0.07		2.3		0.9	0.2	1.5	68	100	240	13.00
+1992	Kennebec River	2C	60	0.06		1.4		0.8	0.1	1.4	73	120	260	12.00
+1992	Kennebec River	3C	60	0.05		19		1.6	0.1	3.3	81	95	270	13.00
+
+1992	Kennebec River	1N	60	0.05		6.3		2	0.3	1	83	110	240	10.00
+1992	Kennebec River	2N	60	0.07		11		1.8	0.2	2.3	74	100	250	13.00
+1992	Kennebec River	3N	60	0.07		2.3		1	0.1	1	75	78	280	10.00
+
+1992	Sheepscot River	1N	60	0.05		3.1		1.9	0.4	2	110	250	420	8.70
+1992	Sheepscot River	2N	60	0.04		2.5		1.7	0.4	1.6	120	260	380	12.00
+1992	Sheepscot River	3N	60	0.05		28		1.7	0.5	2.7	170	160	360	10.00
+
+	                                                       NEW BRUNSWICK													
+														
+Year	Station	Sample	Days	Ag	Cd	Cr	Cu	Pb	Hg	Ni	Zn	Al	Fe	% Solids
+			Deployed											
+														
+1992	Hospital Island	1N	0	0.27		1		0.3	0.1	1.7	66	90	270	17.00
+1992	Hospital Island	2N	0	0.29		0.7		0.3	0.1	1.7	66	110	270	17.00
+
+1992	Hospital Island	1N	60	0.13		0.7		0.4	0.2	1.8	91	150	370	13.00
+1992	Hospital Island	2N	60	0.1		0.5		0.7	0.2	1	81	130	330	14.00
+1992	Hospital Island	3N	60	0.14		0.8		0.7	0.2	1.7	95	200	460	14.00
+														
+1992	Hospital Island	1C	60	0.2		0.5		0.3	0.1	0.7	52	120	220	22.00
+1992	Hospital Island	2C	60	0.19		0.3		0.3	0.1	0.5	58	89	180	22.00
+1992	Hospital Island	3C	60	0.2		0.5		0.4	0.1	0.7	56	82	190	21.00
+
+1992	Manawagonish Island	1N	60	0.04		6.2		0.7	0.2	5.4	120	730	1500	14.00
+1992	Manawagonish Island	2N	60	0.04		13		2.3	0.3	8.3	140	880	1900	5.40
+1992	Manawagonish Island	3N	60	0.04		11		1.5	0.2	6.1	120	1100	2100	5.70
+														
+1992	Manawagonish Island	1C	60	0.14		1		0.9	0	2.4	100	340	660	17.00
+1992	Manawagonish Island	2C	60	0.09		1		0.9	0.2	1.7	81	320	530	17.00
+1992	Manawagonish Island	3C	60	0.15		0.9		0.7	0.1	1.8	74	380	590	16.00
+
+														
+	                                                           NOVA SCOTIA													
+
+Year	Station	Sample	Days	Ag	Cd	Cr	Cu	Pb	Hg	Ni	Zn	Al	Fe	% Solids
+			Deployed											
+
+1992	Broad Cove	1P	0	0.03		2		1	0.2	3.1	110	170	540	10.00
+1992	Broad Cove	2P	0	0.04		4.7		1	0.1	3.7	100	210	570	11.00
+1992	Broad Cove	3P	0	0.04		31		2.3	0.2	5.7	140	190	620	12.00
+
+1992	Broad Cove	1N	60	0.02		4		2.7	0.1	3.2	110	280	670	12.00
+1992	Broad Cove	2N	60	0.02		3.8		2	0.1	3	84	350	510	13.00
+
+1992	Broad Cove	1C	60	0.03		1.7		1.8	0.2	1.7	73	250	460	16.00
+1992	Broad Cove	2C	60	0.03		15		2	0.1	2.9	85	200	480	17.00
+1992	Broad Cove	3C	60	0.03		6.4		1.8	0.1	2.7	92	240	420	16.00
+
+1992	Digby	1N	60	0.1		0.9		2.3	0.1	1	96	260	490	20.00
+1992	Digby	2N	60	0.25		11		2.3	0	2.8	180	190	450	19.00
+1992	Digby	3N	60	0.1		37		9.6	0.2	5.4	390	330	580	19.00
+
+1992	Digby	1C	60	0.03		2.4		1.6	0.1	2.6	69	290	610	19.00
+1992	Digby	2C	60	0.03		1.7		1.6	0.1	2.2	62	390	600	18.00
+
+
+
+
+
+	                                                                 NOTES													
+														
+	sample: the # refers to the number of composites (20 mussels/composite) per station. In 1992 there were a maximum of 3 composites/ station													
+	"Sample: the letter indicates the typr of sample; c=caged, P=preset; and N=indigenous."													
+	date deployed: In 1992 the cages were deployed for 2 different time periods; 30 or 60 days.													
+	    ND= non-detect													
+	    K= less than													
+	"    For purposes of calculation,  ND=0 and K= .5 value"													
+
+	                                                     ADDITIONAL SAMPLES													
+	NOVA SCOTIA: Machias Seal Island specimens were Modiolus sp. and therefore not comparable with rest of data set													
+														
+Year	Station	Sample	Days	Ag	Cd	Cr	Cu	Pb	Hg	Ni	Zn	Al	Fe	% Solids
+			Deployed											
+														
+1992	NSMS1N	1N	0	0.35		11		2.8	0.2	11	860	250	370	16.00
+1992	NSMS2N	2N	0	0.4		8.4		2.3	0.2	8.8	710	130	380	15.00
+1992	NSMS3N	3N	0	0.42		4.8		2.3	0.3	11	720	240	690	15.00
+	Mean			0.39		8.066666667		2.466666667	0.233333333	10.26666667	763.3333333	206.6666667	480	15.33
+	s			0.036055513		3.113411848		0.288675135	0.057735027	1.270170592	83.86497084	66.58328118	181.934054	0.58

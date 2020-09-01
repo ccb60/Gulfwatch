@@ -1,0 +1,29 @@
+1996 Tissue Concentrations of Chlorinated Pesticides in Mytilus edulis (ng/g dry wt).														
+
+
+ 	MECC1N	MECC2N	MECC3N	MECC4N	NHHS1N 	NHHS2N	NHHS3N	NHHS4N						
+
+Pesticide														
+														
+HCB 	<2	<2	<2	<2/<2	<2	<2	<2	<2						
+r-HCH 	<2	<2	<2	<2/<2	<2	<2	<2	<2						
+Heptachlor 	<2	<2	<2	<2/<2	<2	<2	<2	<2						
+Aldrin 	<2	<2	<2	<2/<2	<2	<2	<2	<2						
+Hepta Epoxide 	<2	<2	<2	<2/<2	<2	<2	<2	<2						
+"o,p'-DDE "	<2	<2	<2	<2/<2	<2	<2	<2	<2						
+a-Endosulfan 	<2	<2	<2	<2/<2	<2	<2	<2	<2						
+cis-Chlordane 	<2	<2	<2	<2/<2	<2	<2	<2	<2						
+trans-Nonachlor 	<2	<2	<2	<2/<2	<2	<2	<2	<2						
+"p,p'-DDE "	5.7	5.5	5.9	5/5	5	4.7	5	2.1
+Dieldrin 	<2	<2	<2	<2/<2	<2	<2	<2	<2
+"o,p'-DDD "	<2	<2	<2	<2/<2	<2	<2	<2	<2
+b-Endosulfan 	<2	<2	<2	<2/<2	<2	<2	<2	<2
+"p,p'-DDD "	2	2.7	2.1	<2/<2	2.6	<2	2.4	<2
+"o,p'-DDT "	<2	<2	<2	<2/<2	<2	<2	<2	<2
+"p,p'-DDT "	<2	<2	<2	<2/<2	<2	<2	<2	<2
+Mirex 	<2	<2	<2	<2/<2	<2	<2	<2	<2
+
+Total	7.8	8.2	8	5/5	7.6	4.7	7.4	2.1
+
+Surrogate Recovery (%)								
+g-Chlordene	103	116	108	109/115	128	85	116	113

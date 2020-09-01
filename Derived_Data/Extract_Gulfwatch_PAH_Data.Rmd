@@ -1,0 +1,111 @@
+---
+title: "Extract Data on PAH Contamination in Mussel Tissue from Casco Bay Sites From Gulfwatch Data"
+author: "Curtis C. Bohlen, Casco Bay Estuary Partnership"
+date: "8/20/2020"
+output:
+  github_document:
+    toc: true
+    fig_width: 7
+    fig_height: 5
+---
+
+<img
+  src="https://www.cascobayestuary.org/wp-content/uploads/2014/04/logo_sm.jpg"
+  style="position:absolute;top:10px;right:50px;" />
+
+
+# Overview
+With all those exceptions and considerations we had to contend with, it was simpler to reorganize the PAH data by hand in Excel, rather than try to write code to extract data in a readily reproducible way.
+
+Here, we begin processing hand-edited Excel Files and prepare them for further analysis, saving an intermediate version of the file in "gulfwatch_pah_data_long.csv".
+
+## Here's Why
+*  PAH files are organized with Parameters (PAHs) in rows, and Sites in columns. 
+*  As for the Metals, data prior to 1998 are organized in blocks, not one continuous table.  
+*  Several compounds are written in slightly different ways in different years.  THis mostly represents differences in capitalization and presence or absence of spacing or punctuation. 
+*  All sample values are in ng/g dry weight.
+*  Non-detects are abundant, and  are shown as "<{value}". 
+*  Each block of sample data is followed by a related block containing data on "Surrogate Recovery" expressed in percent.  Recoveries vary substantially. 
+*  Nomenclature used in the Surrogate  Recovery blocks is not consistent across years or even with sample data from the same year. 
+*  Surrogate recovery data are sometimes encoded with, and sometimes without a percent sign ("%"). 
+*  File 'pah93.txt' contains internal labels that suggest the file contains 1994 data, but the data is not the same as in 'pah94.txt'. Data is shown for the Royal River, which was sampled in 1993, but not in 1994, so we believe the internal label is incorrect, and the table contains data from 1993. 
+*  Although four samples were analyzed from the Royal River in 1993 for metals, only three were analyzed for PAHs. 
+*  A sample from Broad Cove in 1995 appears to have two sets of values combined in a a single column, separated by a slash ("/").  We split the two values out as replicates.  We do not know if these are field replicates or laboratory replicates.
+
+## Data Reorganization in Excel
+Reorganization involved:
+1. pooling data from multiple files;
+2. deleting data from sampling locations outside of Casco Bay;
+3. establishing consistent PAH nomenclature (resolving spelling and capitalization differences);
+4. adding  sample identification data ( site code, year, and sample type); and
+5. transposing the data, so samples are on rows and parameters are on columns.
+
+We retained both sample analysis data and data on "Surrogate Recovery" for each sample, but in separate files to simplify analysis.
+
+*  Reorganized sample data is contained in 'gulfwatch_pah_Casco.csv'
+*  Percent recovery data is in 'gulfwatch_pah_Casco_pct_recovery.csv'.
+
+These data require further processing in R, especially to handle non-detects.  We begin that processing here, and continue it in the accompanying Notebook "Calculate_Gulfwatch_PAH_Totals.Rmd".
+
+Following CBEP convention, we split data columns containing non-detects into two data columns, one containing numeric values (either sample observations or detection limits), and the other containing a logical flag that indicates which values are non-detects.
+
+
+# Load Libraries
+```{r load_libraries}
+library(tidyverse)
+
+library(CBEPgraphics)
+load_cbep_fonts()
+theme_set(theme_cbep())
+
+library(LCensMeans)
+```
+
+
+# Site Codes
+Data in each file indicates locations of samples either with a site code (most data) or with a site name (most metals data).
+```{r site_codes}
+sitecodes <- c('MEPH', 'MEPR', 'MEBC', 'MERY')
+sitenames <- c('Portland Harbor', 'Presumpscot River',
+               'Broad Cove', 'Royal River')
+```
+
+## REGEX patterns
+```{r rexex_patterns}
+sitecodepattern = ''
+sitecodepattern <- paste0(sitecodepattern, paste(sitecodes, collapse = '|' ))
+sitecodepattern
+```
+
+
+
+
+# Load Data
+```{r load_data}
+fn     <- 'gulfwatch_pah_Casco.csv'
+pah_data <- read_csv(fn)
+```
+
+## Convert to Long Form 
+```{r long_form}
+pah_data_longer <- pah_data %>% pivot_longer(cols = Naphthalene:Total,
+                                             names_to = 'PAH',
+                                             values_to = 'Original')
+```
+
+## Split  Columns 
+Into the numerical value and a ND flag
+```{r split_columns}
+pah_data_working <- pah_data_longer %>%
+  mutate(Flag = Original == 'ND' | grepl('<', Original),
+         Concentration = if_else(Flag,
+                                 as.numeric(substr(Original, 2,nchar(Original))),
+                                 as.numeric(Original))) %>%
+  select (-Original)
+  
+```
+
+## Save Result
+```{r save_long_data}
+write_csv(pah_data_working, 'gulfwatch_pah_data_long.csv')
+```

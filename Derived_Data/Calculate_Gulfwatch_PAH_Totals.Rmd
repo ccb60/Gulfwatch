@@ -1,0 +1,311 @@
+---
+title: "Recalculate PAH Totals From Gulfwatch, Using different ND Conventions"
+author: "Curtis C. Bohlen, Casco Bay Estuary Partnership"
+date: "8/20/2020"
+output:
+  github_document:
+    toc: true
+    fig_width: 7
+    fig_height: 5
+---
+
+<img
+  src="https://www.cascobayestuary.org/wp-content/uploads/2014/04/logo_sm.jpg"
+  style="position:absolute;top:10px;right:50px;" />
+
+
+```{r load_libraries}
+library(tidyverse)
+
+library(CBEPgraphics)
+load_cbep_fonts()
+theme_set
+
+library(LCensMeans)
+```
+# Introduction
+The Gulfwatch PAH data includes many non-detects.  It is important to analyze
+these non-detects in a consistent manner. There are three common
+(non-statistical) strategies for addressing non-detects, and one more
+statistically-based approach. Those four approaches are:
+1.  Replace all non-detects  with the detection limit
+2.  Replace all non-detects with HALF the detection limit
+3.  Replace all non-detects with ZERO
+4.  Replace all non-detects with Maximum Likelihood estimates of conditional means.
+5.  Kaplan-Meier (Non-parametric) method
+6.  Regression on Order Statistics
+
+Approach # 4 through # 6 are statistically grounded.  Of those, #4 is
+conceptually the most straight forward, but it requires assumptions
+about the underlying probability distribution of unobserved data. 
+
+All the statistical methods are probably inappropriate when there are few observed
+values (fewer than perhaps 20% of observations).
+
+We calculate estimated conditional means using # 4, via our LCensMean
+package. We make the assumption that data for many contaminants are distributed
+approximately lognormal.
+
+The "Totals" Reported in the raw Gulfwatch data implicitly use strategy 3.
+Non-detects are not included in those totals at all.
+
+## Tasks
+We need to calculate totals by site, and also address inconsistencies in
+reporting Benzo(b)fluoranthene and Benzo(k)fluoranthene.
+
+### Benzo(b+k)fluoranthene
+Benzo(b)fluoranthene and Benzo(k)fluoranthene are sometimes (1999 and 2000)
+reported separately and sometimes (1993, 1994, 1995) reported as a sum. We only
+get detection limits implicitly, for the non-detect samples, and non-detects
+did not happen in all years.  But other detection limits are consistent
+from 1993-1995, and separately for 1999 and 2000.  If that is again the case,
+detection limits were as follows:
+
+Chemical Constituent    |    NDs Were Reported        | Detection Limit (ng/g)
+________________________|_____________________________|_______________________
+Benzo(b+k)fluoranthene  |   1993 and 1995             |  < 10
+Benzo(b)  fluoranthene  |   1999                      |  < 8
+Benzo(k)  fluoranthene  |   1999                      |  < 2
+
+For consistency, we want to estimate the sum of Benzo(b+k) fluoranthene for
+the latter two years. That is easy to do when both compounds were detected,
+as for all observations in 2000, but it is far from obvious how to do that
+correctly when one or both compounds were not detected.
+
+It turns out that the detection limit in 1999 and 2000 for Benzo(b)
+fluoranthene was relatively high, at 8 ng/l, and the compound was
+never detected, while Benzo(k) fluoranthene had a lower DL,
+at 2 ng/l, and it was detected several times.
+
+The different methods here can only matter if we look at individual PAHs,
+which we do not now plan to do.  Also, impact is likely to be small.
+
+### Totals
+We calculate values using methods 1 through 4 to see how they differ. 
+
+We prefer to go with method 4 where the data is sufficient for that to
+make sense.  The reason is that this approach is based on solid statistical
+logic, and makes use not only of the data on observed values, but also data on
+the proportion of all observations that lie below the detection limits. It is
+conceptually simpler than the other statistic-based methods.
+
+# Load Data
+```{r load_data}
+fn       <- 'gulfwatch_pah_data_long.csv'
+pah_data <- read_csv(fn)
+```
+
+Note that to be cautious, we might chose to toss out ML estimates that are based
+on few or no actual detects, as they are likely to be numerically unstable and
+depend  on the detection limit and sample sizes.  The numerical values
+are likely to be low, so including or not including them will have only a minor
+impact on calculated total PAHs.  Here we retain them, but code for dropping
+compounds with more than 80% NDs (about four detects  in this data set) is
+included but commented out.
+
+```{r data_reorg_1}
+pah_data_working <- pah_data %>%
+  mutate(nd_to_zero = if_else(Flag, 0, Concentration),
+         nd_to_half = if_else(Flag, Concentration/2, Concentration),
+         nd_to_nd   = Concentration) %>%
+  group_by(PAH) %>%
+  # mutate(n_samps  = sum(! is.na(Concentration)),
+  #        n_nds    = sum(Flag, na.rm = TRUE),
+  #        drop     = n_nds/n_samps > 0.80) %>%
+  mutate(nd_to_ml = sub_cmeans(Concentration, Flag)) %>%
+  # mutate(nd_to_ml = if_else(drop, NA_real_, nd_to_ml)) %>%
+  ungroup() %>%
+  # select(-n_samps, -n_nds) %>%
+  select(-Concentration)
+```
+
+
+
+```{r data_reorg_2}
+pah_data_working_2 <- pah_data_working %>% 
+  pivot_wider(id_cols = Original_Code:Sample_Type, names_from = PAH,
+              values_from  = c(nd_to_zero, nd_to_half, nd_to_nd, nd_to_ml, Flag))%>%
+  rename_all(~if_else(grepl('nd_to_zero', .), paste0(substr(.,12,nchar(.)),'_ZE'), .)) %>%
+  rename_all(~if_else(grepl('nd_to_half', .), paste0(substr(.,12,nchar(.)),'_HF'), .)) %>%
+  rename_all(~if_else(grepl('nd_to_nd',   .), paste0(substr(.,10,nchar(.)),'_ND'), .)) %>%
+  rename_all(~if_else(grepl('nd_to_ml', .),  paste0(substr(.,10,nchar(.)),'_ML'), .)) %>%
+  rename_all(~if_else(grepl('Flag', .), paste0(substr(.,6,nchar(.)),'_Flag'), .))
+
+```
+
+But we still have too many NAs in there for some reason!
+
+```{r  data_reorg_3}
+pah_data_working_3 <- pah_data_working_2 %>%
+rowwise() %>%
+  mutate(Total_ZE = sum(c_across(Naphthalene_ZE:`Benzo(g,h,i)Perylene_ZE`), na.rm=TRUE)) %>%
+  mutate(Total_HF = sum(c_across(Naphthalene_HF:`Benzo(g,h,i)Perylene_HF`), na.rm=TRUE)) %>%
+  mutate(Total_ND = sum(c_across(Naphthalene_ND:`Benzo(g,h,i)Perylene_ND`), na.rm=TRUE)) %>%
+  mutate(Total_ML = sum(c_across(Naphthalene_ML:`Benzo(g,h,i)Perylene_ML`), na.rm=TRUE)) %>%
+  select(Original_Code:Sample_Type, contains('Total')) %>%
+  ungroup()
+```
+
+```{r exploratory_graphic}
+ggplot(pah_data_working_3, aes(x=Total_ZE))  +
+  geom_line(aes(y=Total_HF), color = 'orange') +
+  geom_line(aes(y=Total_ML), color = 'yellow') +
+  geom_line(aes(y=Total_ND), color = 'red') +
+  geom_abline(slope = 1, intercept = 0) +
+  geom_abline(slope = 1, intercept = 100, lty = 2) +
+  geom_abline(slope = 1, intercept = 200, lty = 3)
+
+         
+```
+So, in general, selection of the type of total used makes a difference of as
+much as several hundred ng/l, principally because adding the detection limit or
+half the detection limit of about 10 ng/g for each of 20 or more compounds adds
+about 200 ng/g to the total. The ML method uses all available data to estimate
+likely values, and generally puts a much lower floor nder the sum.  It's worth
+pointing out that bias is highest for compounds that have many non-detects.
+
+# Addressing Toxicity in Edible Tissues
+Curiously, there are few benchmarks like ERL and ERM available to evaluate the
+significance of levels of contaminants in edible seafood. This is largely
+because EPA views risk of o contaminants in food through a dose-response logic,
+so one needs to evaluate concentration in the seafood, amount of seafood eaten
+per meal, number of seafood meals eaten, bodyy weight, an other factors.
+
+In other words. levels of concern in mussels depend on how often you eat mussels,
+how much you eat at a sitting, how big you are, etc.  
+
+> EPA. 2000. "Guidance for Assessing Chemical Contaminant Data for Use in Fish
+Advisories. Volume 2 Risk Assessment and Fish Consumption Limits.
+Third Edition.
+
+Includes limited data on toxicity of individual PAHs, including the following:  
+
+## Section 5.6.11 Summary of EPA Health Benchmarks
+(THese benchmarks are non-enforeable recommendations , often based on "reference
+doses" (RfDs) based on lowest lose showing repsonses under animal studies,
+divided by  uncertainty factors on the order of 100 or so to account for
+uncertainties.  
+
+*  *Chronic Toxicity*  
+
++---------------+------------------+  
+|anthracene     | 3 x 10-1 mg/kg-d | 
++---------------+------------------+
+|fluoranthene   | 4 x 10-2 mg/kg-d |  
++---------------+------------------+
+|fluorene       | 4 x 10-2 mg/kg-d |  
++---------------+------------------+
+|pyrene         | 3 x 10-2 mg/kg-d |
++---------------+------------------+ 
+
+*  *Carcinogenicity*  
+
++---------------+------------------+ 
+|benzo[a]pyrene  | 7.3 mg/kg-d |
++---------------+------------------+ 
+
+## Toxic Equivalency Factors
+Table 5-2 gives "Toxicity Equivalency Factors" for PAHs, apparently referenced
+to Benzo[a]pyrene, for which we have a benchmark dose, above. These
+equivalencies are for carcinogenicity specifically.
+
+There appears to be a typographical error in the table listing the TEF for
+Benz[a]anthracene as 0, where by context, and knowledge of its  toxic effects,
+0.1 appears more likely.
+
+In general, risk levels are expressed in terms of daily doses in mg/kg-d.
+
+Several individual PAHs have established reference doses (RfDs), but confidence
+in those values is generally low.Values for individual PAHs tend to hover around
+0.01 to 0.1 mg/kg or slightly higher.
+
+## Load Modified TEF Table
+We created an electronic copy of that table, with entries for all PAHs in or
+study. It is conveneient to have all compounds in the table so we can use a
+lookup table approach to calculating the weighted sum that produces a TEQ for
+each site.
+
+To be conservative, we gave all PAHs for which we have not TEF value from this
+source a TEF of ZERO in the table.  This means our weighted sum may
+understate relative toxicity somewhat, but as the compounds thus not tracked are
+generally less abundant, the impact is likely to be moderate.
+
+### Establish Folder Reference
+```{r folder_refs}
+sibfldnm <- 'References'
+parent   <- dirname(getwd())
+sibling  <- file.path(parent,sibfldnm)
+fn <- 'PAH_TEFs.csv'
+```
+
+## Read TEF Table
+```{r}
+TEF_data <- read_csv(file.path(sibling, fn), skip = 1,
+                     col_names = c('Compound', 'TEF')) 
+knitr::kable(TEF_data)
+```
+
+
+## Calculating Weighted Sums
+We can calculate and estimated TEQ for carcinogenicity, referenced to benzo[a]pyrene, as follows:
+(There is  certainly a more efficient way to do this using a weighted sum or weighted average function)
+```{r}
+TEQs <- pah_data_working %>%
+  select(-nd_to_zero, -nd_to_half, -nd_to_nd) %>%
+  group_by(PAH) %>%
+  # First, calculate weighted values
+  mutate(part = nd_to_ml * TEF_data$TEF[match(PAH, TEF_data$Compound)]) %>%
+  ungroup() %>%
+  pivot_wider(id_cols = Original_Code:Sample_Type, names_from = PAH,
+              values_from  = part) %>%
+  select(-Total) %>%
+  
+  #Then add them up row-wise for sample totals.
+  rowwise() %>%
+  mutate(TEQ = sum(c_across(Naphthalene:`Benzo(g,h,i)Perylene`), na.rm=TRUE)) %>%
+  ungroup() %>%
+  select(Original_Code, Site, Year, Sample_Type, TEQ)
+
+pah_data_working_3 <- pah_data_working_3 %>%
+  left_join(TEQs, by = c('Original_Code', 'Site', 'Year'))
+
+```
+
+
+# Deriving Tissue Levels of Concern
+
+But we can't go from those to acceptable levels in shellfish without estimating
+size of shellfish meats, size of human, etc.
+
+We can guesstimate, based on information found from unverifiable sources on-line:
+One pound of mussels (let's call it 500g) is ~ 20 to 25 animals, and a fairly
+typical serving.  It might have on the order of 20% meat, so total consumed meat
+in a serving might be on the order of 100g.
+
+("Maine:  An Encyclopedia" (https://maineanencyclopedia.com/blue-mussel-harvests/) suggests meat averages about 17% of weight of whole mussels in Maine.)
+
+so, if a 60 kg ( ~ 130 lb) human consumed a regular serving of 20 to 25 mussels, they would consume about 
+
+$C = $ Concetration of contaminant, in ng/g
+$D = $ calculated dose of contaminant in mg/g
+
+$D \textrm{ mg/kg} = \frac{(C \textrm{ ng/g} \times 1\textrm{mg}/1000 \textrm{ ng}) \times 100 \textrm{ g meats}}{60\textrm{ kg person}} \approx C\div 600$
+
+
+So,  If our 'reference Dose" is 7.3 mg/kg-d of benzo[a]pyrene, or using the TEQ,
+we would need a TEQ (concentration) of about $7.3 \times 600 = 4380 \textrm{ ng/g}$ to reach levels of concern
+for a DAILY dose.
+
+None of our TEQs break 100.  This strikes me as surprisingly low if I have not messed up someplace....  Some of those Portland Harbor stations should be ofconcern, but it turns out the primary PAH constituents are all among the low carcenogenicity compounds.
+
+
+# Comparisons to All Gulfwatch Sites
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+ 1996 Tissue Concentrations of Polyaromatic Hydrocarbons in Mytilus edulis (ng/g dry weight)														
+
+
+ 	MECC1N	MECC2N	MECC3N	MECC4N	NHHS1N	NHHS2N	NHHS3N	NHHS4N						
+PAHs														
+
+Naphthalene	<30	<30	<30	<30/<30	<30	<30	<30	<30						
+2-Me naphthalene	<30	<30	<30	<30/<30	<30	<30	<30	<30						
+1-Me naphthalene	<30	<30	<30	<30/<30	<30	<30	<30	<30						
+Biphenyl	<20	<20	<20	<20/<20	<20	<20	<20	<20   						
+"2,6-Dime naphthalene"	<20	<20	<20	<20/<20	<20	<20	<20	<20   						
+Acenaphthylene	<10	<10	10	<10/<10	<10	<10	<10	<10						
+Acenaphthene	<10	<10	<10	<10/<10	<10	<10	<10	<10						
+"2,3,5-Trime naphthalene"	<20	<20	21	<20/<20	<20	<20	<20	24						
+Fluorene	<10	<10	<10	<10/<10	<10	<10	<10	13						
+Phenanthrene	13	12	13	14/14	11	14	11	29						
+Anthracene	<10	<10	<10	<10/<10	<10	<10	<10	<10
+1-Me phenanthrene	<10	<10	<10	<10/<10	<10	<10	<10	<10
+Fluoranthene	35	35	41	36/40	16	22	19	40
+Pyrene	32	33	39	32/35	13	31	16	29
+Benzo(a)Anthracene	13	13	14	12/12	<10	<10	<10	11
+Chrysene	19	22	25	22/24	<10	13	<10	15
+Benzo(b+k)Fluoranthene	34	37	39	32/35	11	11	12	13
+Benzo(e)pyrene	20	22	23	20/22	<10	19	<10	13
+Benzo(a)pyrene	<10	<10	<10	<10/<10	<10	<10	<10	<10
+Perylene	<10	<10	<10	<10/<10	<10	<10	<10	<10
+Indeno(123cd)pyrene	11	11	<10	10/11	<10	<10	<10	<10
+Dibenzo(ah)anthracene	<10	<10	<10	<10/<10	<10	<10	<10	<10
+Benzo(ghi)perylene	12	12	11	<10/13	<10	22	<10	<10
+
+Total	187	197	235	178/206	51	132	58	187
+
+Surrogate Recovery								
+Naphtalene-d8	46%	46%	50%	47/51%	37%	55%	51%	57%
+Acenaphthene-d10	65%	64%	69%	67/67%	49%	69%	65%	75%
+Phenanthrene-d10	73%	75%	77%	79/75%	67%	79%	81%	84%
+Fluoranthene-d10	94%	95%	97%	98/95%	89%	92%	97%	97%
+Chrysene-d12	82%	93%	93%	94/91%	90%	91%	101%	96%
+Benzo[a]pyrene-d12	83%	86%	86%	86/86%	79%	73%	88%	79%
+Benzo[ghi]perylene-d12	94%	84%	83%	89/82%	77%	78%	85%	61%

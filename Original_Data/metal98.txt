@@ -1,0 +1,105 @@
+1998 GULFWATCH METAL CONCENTRATIONS IN UG/G DRY WEIGHT													
+													
+Year	Station	Sample	 AG	 AL      	 CD      	 CR      	 CU     	 FE      	 HG      	 NI      	 PB      	 ZN      	SOLID    
+	Massachusetts												
+													
+1998	Sandwich	1N	0.5	77	1.8	1.1	5.7	220	0.41	 ND 0.8   	2.9	68	14.9
+1998	Sandwich	2N	1	62	1.7	1	6.1	200	0.32	 ND 0.8   	2.8	75	15.7
+1998	Sandwich	3N	0.5	55	1.6	1	5	180	0.33	 ND 0.8   	2.8	66	15.7
+1998	Sandwich	4N	1.3	92	2.5	1.4	8	270	0.43	0.97	4.1	195	15.5
+
+1998	Pines River	1N	 ND 0.1   	190	2.2	3.4	8	360	0.54	1.3	6.9	110	13.8
+1998	Pines River	2N	 ND 0.1   	200	1.6	2.5	9.3	400	0.44	1.5	6.7	110	14.4
+1998	Pines River	3N	 ND 0.1   	190	2.1	3.3	8.5	310	0.58	1.2	6.3	100	15.2
+1998	Pines River	4N	 ND 0.1   	200	1.7	2.5	9.1	360	0.47	1.6	6.7	120	14.8
+
+1998	"Boston, Inner Harbor"	1N	 ND 0.1   	100	2.2	1.5	15	390	0.51	1.1	30	220	14.7
+1998	"Boston, Inner Harbor"	2N	 ND 0.1   	110	2.8	1.6	16	440	0.55	1.3	32	310	14.7
+1998	"Boston, Inner Harbor"	3N	0.3	150	2.6	1.9	21	610	0.56	1.5	30	230	14.9
+1998	"Boston, Inner Harbor"	4N	0.1	170	3	2	26	600	0.56	1.3	37	270	14.9
+													
+Year	Station	Sample	 AG	 AL      	 CD      	 CR      	 CU     	 FE      	 HG      	 NI      	 PB      	 ZN      	SOLID    
+	Maine												
+													
+1998	MELL	4N	 ND 0.1   	280	2.2	3	7	540	0.82	1.8	6.6	140	11.6
+1998	MELL	3N	 ND 0.1   	280	2.1	2.8	8.1	500	0.97	3.9	5.7	150	11.6
+1998	MELL	2N	 ND 0.1   	240	2.1	2.7	7.2	440	0.77	1.5	4.9	100	12.9
+1998	MELL	1N	 ND 0.1   	390	1.9	4.2	6.5	630	0.71	2.1	5.8	150	12.4
+
+1998	Boothbay Harbor	4N	 ND 0.1   	200	1.1	1.1	14	310	0.55	 ND 0.8   	16	110	11.2
+1998	Boothbay Harbor	3N	0.1	150	0.86	1	12	280	0.5	 ND 0.8   	13	93	11.3
+1998	Boothbay Harbor	2N	 ND 0.1   	300	0.93	1.3	12	410	0.55	0.8	18	120	11.3
+1998	Boothbay Harbor	1N	0.11	380	0.94	1.6	16	520	0.46	1	16	120	12.4
+
+1998	Kennebec River	4N	 ND 0.1   	110	2.4	1.2	5.7	200	0.46	 ND 0.8   	1.4	64	8.6
+1998	Kennebec River	3N	0.12	150	2.4	1.5	5.9	270	0.5	1.1	2	58	8.9
+1998	Kennebec River	2N	0.13	120	2	1.4	5.2	250	0.3	0.93	1.8	46	9.6
+1998	Kennebec River	1N	0.17	87	1.5	0.97	4.5	180	0.39	 ND 0.8   	1.1	43	10.1
+
+1998	Damariscotta	4N	0.12	400	1.3	1.5	5.8	470	0.4	1.2	2	64	10.7
+1998	Damariscotta	3N	 ND 0.1   	200	1.3	1	5.1	240	0.24	0.89	1.6	66	10.4
+1998	Damariscotta	2N	 ND 0.1   	230	1.1	1.2	4.6	290	0.26	0.93	1.6	66	10.6
+1998	Damariscotta	1N	 ND 0.1   	340	1.2	1.3	5.4	380	0.45	1.1	1.8	72	11.4
+
+1998	Clark Cove	4N	 ND 0.1   	280	2.2	3	7	540	0.82	1.8	6.6	140	11.6
+1998	Clark Cove	3N	 ND 0.1   	280	2.1	2.8	8.1	500	0.97	3.9	5.7	150	11.6
+1998	Clark Cove	2N	 ND 0.1   	240	2.1	2.7	7.2	440	0.77	1.5	4.9	100	12.9
+1998	Clark Cove	1N	 ND 0.1   	390	1.9	4.2	6.5	630	0.71	2.1	5.8	150	12.4
+													
+Year	Station	Sample	 AG	 AL      	 CD      	 CR      	 CU     	 FE      	 HG      	 NI      	 PB      	 ZN      	SOLID    
+	New Hampshire												
+													
+1998	Gypsum Point	4N	 ND 0.1   	230	1.9	2.6	5.4	470	0.84	1.4	3.6	120	12.7
+1998	Gypsum Point	3N	 ND 0.1   	110	1.2	1.3	2.8	220	0.99	0.99	2.5	74	11.7
+1998	Gypsum Point	2N	 ND 0.1   	180	2.3	2.3	5.2	380	0.78	1.5	3.5	130	11.9
+1998	Gypsum Point	1N	 ND 0.1   	180	2.3	2.1	5.4	360	0.83	1.5	3.7	120	12.2
+
+1998	North Mill Pond	4N	 ND 0.1   	180	1.5	1.7	5.7	340	0.64	0.94	3.3	110	16.4
+1998	North Mill Pond	3N	 ND 0.1   	280	2	2.5	6.8	520	0.92	1.3	5.1	130	14
+1998	North Mill Pond	2N	 ND 0.1   	280	2	2.4	6.6	500	0.76	1.3	5.5	140	15.1
+1998	North Mill Pond	1N	 ND 0.1   	300	2.4	2.7	7.1	570	0.83	1.4	6.8	160	14.1
+
+1998	Schiller Station	4N	 ND 0.1   	160	2.9	2.4	6.4	360	1.22	1.8	3.8	120	11.5
+1998	Schiller Station	3N	 ND 0.1   	180	1.8	2.1	5.5	360	1.03	1.3	2.9	120	13.6
+1998	Schiller Station	2N	 ND 0.1   	190	1.9	2.2	6	380	0.98	1.3	2.7	140	13.9
+1998	Schiller Station	1N	 ND 0.1   	240	2.4	2.5	6.6	440	1.08	1.4	3.2	130	12.7
+
+1998	Dover Point	4N	 ND 0.1   	240	2.4	2.9	5.8	450	0.94	1.6	2.6	120	12.4
+1998	Dover Point	3N	 ND 0.1   	220	3	3	5.8	390	0.99	2	3.2	120	11.5
+1998	Dover Point	2N	 ND 0.1   	200	2.8	3	7.1	370	0.92	1.6	3.3	150	11.6
+1998	Dover Point	1N	 ND 0.1   	150	3	2.9	5.6	330	1.02	1.6	3	130	11
+
+1998	Little Harbor	1N	 ND 0.1   	160	2.5	2.3	5.3	400	1.01	1.7	4.3	110	10.9
+1998	Little Harbor	2N	 ND 0.1   	180	2.5	2.4	4.9	410	1.07	1.8	5.1	110	10.6
+1998	Little Harbor	3N	 ND 0.1   	190	2.4	4.2	4.8	450	0.95	1.9	4.8	120	10.8
+1998	Little Harbor	4N	 ND 0.1   	120	2.3	2.1	5.5	340	0.96	1.5	4.4	80	11.1
+													
+Year	Station	Sample	 AG	 AL      	 CD      	 CR      	 CU     	 FE      	 HG      	 NI      	 PB      	 ZN      	SOLID    
+	New Brunswick												
+													
+1998	Niger River	1N	0.1	320	0.69	0.96	4.2	400	0.21	1	0.66	65	18.4
+1998	Niger River	2N	 K 0.1    	290	0.77	0.79	4.4	320	0.2	0.99	0.61	70	17.9
+1998	Niger River	3N	 ND 0.1   	220	0.7	0.7	5.1	320	0.2	0.9	0.4	64	16.4
+1998	Niger River	4N	 K 0.1    	310	0.78	0.83	4.6	390	0.27	0.95	0.65	62	15.4
+
+1998	Chamcook	1N	 ND 0.1   	170	0.7	0.7	5.3	250	0.16	0.9	0.4	73	18.8
+1998	Chamcook	2N	 ND 0.1   	180	0.8	0.7	5	260	0.19	0.97	 ND 0.4   	63	19.9
+1998	Chamcook	2N	 K 0.1    	200	1.1	0.74	5.7	260	0.25	0.82	0.74	76	17.2
+1998	Chamcook	4N	 ND 0.1   	150	0.91	0.61	4.6	210	0.26	0.8	0.6	59	17.5
+													
+Year	Station	Sample	 AG	 AL      	 CD      	 CR      	 CU     	 FE      	 HG      	 NI      	 PB      	 ZN      	SOLID    
+	Nova Scotia												
+													
+1998	Cornvallis	1N	 ND 0.1   	410	3.1	1.8	7.1	590	0.55	2	3.2	110	8.9
+1998	Cornvallis	2N	 ND 0.1   	340	2.2	1.5	4.3	460	0.39	1.5	3.5	65	9
+1998	Cornvallis	3N	 ND 0.1   	360	2.9	1.8	5.8	490	0.45	1.9	3	73	9.6
+1998	Cornvallis	4N	0.15	440	2.7	1.7	5.6	550	0.42	2.1	3.9	100	8.9
+
+1998	Digby	1N	0.15	320	1.4	1.2	4.7	440	0.48	1.7	2.9	93	11.3
+1998	Digby	2N	 ND 0.1   	380	1.8	1.7	6.7	530	0.5	1.7	2.7	100	11
+1998	Digby	3N	 ND 0.1   	340	1.7	1.5	6.3	480	0.48	1.7	2.8	110	10.6
+1998	Digby	4N	 ND 0.1   	310	1.5	1.3	3.6	460	0.37	1.4	2.4	72	11.2
+
+1998	Broad Cove	1N	 ND 0.1   	200	1.7	1.4	6.8	340	0.35	1.3	1.5	83	10.9
+1998	Broad Cove	2N	 ND 0.1   	200	1.7	1.4	6.5	340	0.35	1.2	1.8	77	10.7
+1998	Broad Cove	3N	 ND 0.1   	140	1.7	1.2	6.9	260	0.4	1.1	1.7	93	11.5

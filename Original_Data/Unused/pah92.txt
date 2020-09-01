@@ -1,0 +1,527 @@
+GULF OF MAINE 1992 MUSSEL SAMPLES							
+
+Polyaromatic Hydrocarbons in Mytilus edulis							
+Tissue Concentrations (ng/g dry weight)							
+
+            PAH	MASN1N	MASN2N	MASN3N	MASN1C	MASN2C	MASN3C	MANI1C
+	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+Naphthalene	<30	<30	<30	<30	<30/<30	<30	<30
+2-Me naphthalene	<30	<30	<30	<30	<30/<30	<30	<30
+1-Me naphthalene	<30	<30	<30	<30	<30/<30	<30	<30
+Biphenyl	<20	<20	<20	<20	<20/<20	<20	<20
+"2,6-Dime naphthalen"	<20	<20	<20	<20	<20/<20	<20	<20
+Acenaphthylene	<10	<10	<10	<10	<10/<10	<10	<10
+Acenaphthene	<10	<10	<10	<10	<10/<10	<10	<10
+"2,3,5-Trime naphthal"	<20	<20	<20	<20	<20/<20	<20	24
+Fluorene	<10	<10	<10	<10	<10/<10	<10	<10
+Phenanthrene	<10	<10	<10	<10	<10/<10	<10	23
+Anthracene	<10	<10	<10	<10	<10/<10	<10	<10
+1-Me phenanthrene	<10	<10	<10	<10	<10/<10	<10	27
+Fluoranthene	22	17	16	12	12/11.	13	138
+Pyrene	<10	<10	<10	<10	<10/<10	<10	113
+Benzo(a)anthracene	<10	<10	<10	<10	<10/<10	<10	<10
+Chrysene	<10	<10	<10	<10	<10/<10	<10	124
+Benzo(b+k)fluoranthen	<10	<10	<10	<10	<10/<10	<10	133
+Benzo(e)pyrene	<10	<10	<10	<10	<10/<10	<10	57
+Benzo(a)pyrene	<10	<10	<10	<10	<10/<10	<10	19
+Perylene	<10	<10	<10	<10	<10/<10	<10	<10
+Indeno(123cd)pyren	<10	<10	<10	<10	<10/<10	<10	14
+Dibenzo(ah)anthrace	<10	<10	<10	<10	<10/<10	<10	<10
+Benzo(ghi)perylene	<10	<10	<10	<10	<10/<10	<10	18
+
+TOTAL	22	17	16	12	12/11.	13	690
+
+
+Surrogate Recovery (%)							
+
+Naph-d8	43	44	49	52	49/39	46	48
+Anap-d10	52	64	58	65	64/64	61	65
+Chry-d12	56	61	66	71	69/75	71	68
+Bap-d12	57	59	67	72	71/80	74	73
+BghiP-d12	63	72	74	81	79/83	77	77
+
+
+	 	 					
+
+
+
+
+
+
+
+
+GULF OF MAINE 1992 MUSSEL SAMPLES							
+
+
+Polyaromatic Hydrocarbons in Mytilus edulis							
+Tissue Concentrations (ng/g dry weight)							
+
+            PAH	MANI2C	MANI3C	MANI1N	MANI2N	MANI3N	NHLH1P	NHLH2P
+	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+Naphthalene	<30/<30	<30	<30	<30	<30/<30	<30	<30
+2-Me naphthalene	<30/<30	<30	<30	<30	<30/<30	<30	<30
+1-Me naphthalene	<30/<30	<30	<30	<30	<30/<30	<30	<30
+Biphenyl	<20/<20	<20	<20	<20	<20/<20	<20	<20
+"2,6-Dime naphthalen"	<20/<20	<20	<20	<20	<20/<20	<20	<20
+Acenaphthylene	<10/<10	<10	<10	<10	<10/<10	<10	<10
+Acenaphthene	<10/<10	<10	<10	<10	<10/<10	<10	<10
+"2,3,5-Trime naphthal"	26/33	32	<20	25	25/<20	<20	<20
+Fluorene	<10/<10	<10	<10	<10	<10/<10	<10	<10
+Phenanthrene	22/22	26	15	16	16/15	<10	<10
+Anthracene	<10/25	19	<10	<10	<10/<10	<10	<10
+1-Me phenanthrene	22/24	24	21	<10	17/<10	<10	<10
+Fluoranthene	118/130	141	94	85	80/86	39	35
+Pyrene	89/100	105	65	57	56/60	30	26
+Benzo(a)anthracene	100/106	118	66	63	64/64	16	14
+Chrysene	96/102	113	62	59	60/60	27	23
+Benzo(b+k)fluoranthen	98/107	117	59	56	66/63	38	32
+Benzo(e)pyrene	48/52	50	32	30	28/29	18	18
+Benzo(a)pyrene	<10/17	18	<10	<10	<10/<10	<10	<10
+Perylene	<10/<10	<10	<10	<10	<10/<10	<10	<10
+Indeno(123cd)pyren	<10/14	<10	<10	<10	<10/<10	12	<10
+Dibenzo(ah)anthrace	<10/<10	<10	<10	<10	<10/<10	<10	<10
+Benzo(ghi)perylene	16/17	19	<10	<10	<10/<10	14	12
+
+TOTAL	635	782	414	391	412	194	160
+
+
+Surrogate Recovery (%)							
+
+Naph-d8	39/41	37	21	31	32/30	37	56
+Anap-d10	63/64	60	39	53	47/40	66	67
+Chry-d12	66/74	66	49	62	59/76	79	80
+BaP-d12	66/76	70	47	61	61/81	83	83
+BghiP-d12	69/72	63	48	61	57/76	85	87
+
+
+
+
+
+
+
+
+
+
+
+GULF OF MAINE 1992 MUSSEL SAMPLES							
+
+Polyaromatic Hydrocarbons in Mytilus edulis							
+Tissue Concentrations (ng/g dry weight)							
+
+            PAH	NHLHP3	NHSIP1	NHSIP2	NHSIP3	NHOPP1	NHOPP2	NHOPP3
+	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+Naphthalene	<30/<30	45	39	39/34	39	46	71
+2-Me naphthalene	<30/<30	37	31	37/32	<30	32	40
+1-Me naphthalene	<30/<30	<30	<30	<30/<30	<30	<30	<30
+Biphenyl	<20/<20	<20	<20	<20/<20	<20	<20	<20
+"2,6-Dime naphthalen"	<20/<20	20	<20	<20/<20	<20	<20	<20
+Acenaphthylene	<10/<10	<10	<10	<10/<10	<10	<10	<10
+Acenaphthene	<10/<10	<10	<10	<10/<10	<10	<10	<10
+"2,3,5-Trime naphthal"	<20/<20	<20	<20	<20/<20	<20	<20	<20
+Fluorene	<10/<10	<10	<10	<10/<10	<10	<10	<10
+Phenanthrene	<10/<10	11	<10	10/<10	<10	<10	<10
+Anthracene	<10/<10	<10	<10	<10/<10	<10	<10	<10
+1-Me phenanthrene	<10/<10	15	<10	16/17	<10	<10	<10
+Fluoranthene	34/32	50	41	60/54	20	21	20
+Pyrene	27/25	45	37	56/51	14	15	20
+Benzo(a)anthracene	15/14	21	19	30/27	<10	<10	<10
+Chrysene	25/23	34	30	46/42	<10	<10	<10
+Benzo(b+k)fluoranthen	34/23	51	54	100/75	<10	<10	<10
+Benzo(e)pyrene	18/16	28	25	38/36	<10	<10	<10
+Benzo(a)pyrene	<10/<10	<10	<10	13/<10	<10	<10	<10
+Perylene	<10/<10	<10	<10	<10/<10	<10	<10	<10
+Indeno(123cd)pyren	12/<10	15	13	16/14	<10	<10	<10
+Dibenzo(ah)anthrace	<10/<10	<10	<10	<10/<10	<10	<10	<10
+Benzo(ghi)perylene	13/12	19	15	18/16	<10	<10	<10
+
+TOTAL	156	391	304	479	73	114	151
+
+
+Surrogate Recovery (%)							
+
+Naph-d8	48/46	44	48	53/48	46	51	46
+Anap-d10	63/61	61	64	65/62	64	62	60
+Chry-d12	77/77	74	74	77/77	73	68	66
+BaP-d12	82/83	79	83	85/83	77	73	68
+BghiP-d12	84/84	80	83	90/91	80	85	74
+
+
+
+
+
+
+
+
+
+
+
+
+GULF OF MAINE 1992 MUSSEL SAMPLES							
+
+Polyaromatic Hydrocarbons in Mytilus edulis							
+Tissue Concentrations (ng/g dry weight)							
+
+            PAH	NHOPP4	NHOPP5	NHOPP6	MEKNC1	MEKNC2	MEKNC3	MEKN1N
+	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+Naphthalene	63	79	42/56	<30	<30	<30	<30/<30
+2-Me naphthalene	42	52	<30/37	<30	<30	<30	<30/<30
+1-Me naphthalene	<30	<30	<30/<30	<30	<30	<30	<30/<30
+Biphenyl	<20	<20	<20/<20	<20	<20	<20	<20/<20
+"2,6-Dime naphthalen"	<20	<20	<20/<20	<20	<20	<20	<20/<20
+Acenaphthylene	<10	<10	<10/<10	<10	<10	<10	<10/<10
+Acenaphthene	<10	<10	<10/<10	<10	<10	<10	<10/<10
+"2,3,5-Trime naphthal"	<20	<20	<20/<20	<20	<20	<20	<20/<20
+Fluorene	<10	<10	<10/<10	<10	<10	<10	<10/<10
+Phenanthrene	<10	<10	<10/<10	<10	<10	<10	<10/<10
+Anthracene	<10	<10	<10/<10	<10	<10	<10	<10/<10
+1-Me phenanthrene	<10	18	<10/<10	<10	<10	<10	<10/<10
+Fluoranthene	17	24	19/21	13	20	15	16/18
+Pyrene	<10	18	<10/17	18	27	20	21/24
+Benzo(a)anthracene	<10	<10	<10/<10	<10	<10	<10	<10/15
+Chrysene	<10	14	<10/<10	20	24	21	22/25
+Benzo(b+k)fluoranthen	<10	15	<10/<10	17	21	31	19/31
+Benzo(e)pyrene	<10	<10	<10/<10	15	19	17	19/19
+Benzo(a)pyrene	<10	<10	<10/<10	<10	<10	<10	<10/<10
+Perylene	<10	<10	<10/<10	<10	<10	<10	<10/<10
+Indeno(123cd)pyren	<10	<10	<10/<10	<10	<10	<10	<10/<10
+Dibenzo(ah)anthrace	<10	<10	<10/<10	<10	<10	<10	<10/<10
+Benzo(ghi)perylene	<10	<10	<10/<10	<10	<10	<10	<10/<10
+
+TOTAL	122	220	61	83	111	104	97
+
+
+Surrogate Recovery (%)							
+
+Naph-d8	46	47	36/41	46	42	43	44/44
+Anap-d10	62	64	54/58	63	61	63	61/65
+Chry-d12	71	73	66/68	69	72	72	70/75
+BaP-d12	75	78	71/69	76	82	80	77/81
+BghiP-d12	79	82	78/76	77	76	85	75/86
+
+
+
+
+
+
+
+
+
+
+
+
+GULF OF MAINE 1992 MUSSEL SAMPLES							
+
+Polyaromatic Hydrocarbons in Mytilus edulis							
+Tissue Concentrations (ng/g dry weight)							
+
+            PAH	MEKN2N	MEKN3N	MESH1N	MESH2N	MESH3N	MEKN1P	MEKN2P
+	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+Naphthalene	<30	<30	<30	<30	<30/<30	<30	<30
+2-Me naphthalene	<30	<30	<30	<30	<30/<30	<30	<30
+1-Me naphthalene	<30	<30	<30	<30	<30/<30	<30	<30
+Biphenyl	<20	<20	<20	<20	<20/<20	<20	<20
+"2,6-Dime naphthalen"	<20	<20	<20	<20	<20/<20	<20	<20
+Acenaphthylene	<10	<10	<10	<10	<10/<10	<10	<10
+Acenaphthene	<10	<10	<10	<10	<10/<10	<10	<10
+"2,3,5-Trime naphthal"	<20	<20	<20	<20	<20/<20	<20	<20
+Fluorene	<10	<10	<10	<10	<10/<10	<10	<10
+Phenanthrene	<10	<10	<10	<10	<10/<10	<10	<10
+Anthracene	<10	<10	<10	<10	<10/<10	<10	<10
+1-Me phenanthrene	<10	<10	<10	<10	<10/<10	<10	<10
+Fluoranthene	13	11	17	14	21/24	23	28
+Pyrene	15	12	17	12	23/24	27	31
+Benzo(a)anthracene	<10	<10	16	<10	16/19	<10	<10
+Chrysene	22	25	29	25	32/38	26	22
+Benzo(b+k)fluoranthen	26	27	68	37	73/82	30	30
+Benzo(e)pyrene	15	15	27	21	25/28	16	<10
+Benzo(a)pyrene	<10	<10	14	<10	13/16	<10	<10
+Perylene	<10	<10	13	<10	13/19	<10	<10
+Indeno(123cd)pyren	<10	<10	13	<10	13/19	<10	<10
+Dibenzo(ah)anthrace	<10	<10	<10	<10	<10/<10	<10	<10
+Benzo(ghi)perylene	<10	<10	17	<10	15/20	<10	<10
+
+TOTAL	91	90	231	109	244	122	133
+
+
+Surrogate Recovery (%)							
+
+Naph-d8	44	41	31	26	60/40	39	38
+Anap-d10	64	63	54	41	86/62	60	53
+Chry-d12	71	72	67	55	98/74	68	60
+BaP-d12	77	80	74	57	104/80	68	62
+BghiP-d12	74	90	79	60	120/76	79	68
+
+
+
+
+
+
+
+
+
+
+
+
+GULF OF MAINE 1992 MUSSEL SAMPLES							
+
+Polyaromatic Hydrocarbons in Mytilus edulis							
+Tissue Concentrations (ng/g dry weight)							
+
+            PAH	NBSI1N	NBSI2N	NBSI3N	NBHI1P	NBHI2P	NBHI3P	NBHI1N
+	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+Naphthalene	<30	<30	<30	<30/<30	<30	<30	<30
+2-Me naphthalene	<30	<30	<30	<30/<30	<30	<30	<30
+1-Me naphthalene	<30	<30	<30	<30/<30	<30	<30	<30
+Biphenyl	<20	<20	<20	<20/<20	<20	<20	<20
+"2,6-Dime naphthalen"	<20	<20	<20	<20/<20	<20	<20	<20
+Acenaphthylene	<10	<10	<10	<10/<10	<10	<10	<10
+Acenaphthene	<10	<10	<10	<10/<10	<10	<10	<10
+"2,3,5-Trime naphthal"	<20	<20	<20	<20/<20	<20	<20	<20
+Fluorene	<10	<10	<10	<10/<10	<10	<10	<10
+Phenanthrene	<10	<10	<10	<10/<10	<10	<10	<10
+Anthracene	<10.	<10.	<10.	<10/<10	<10.	<10.	<10.
+1-Me phenanthrene	<10.	<10.	<10.	<10/<10	<10.	<10.	<10.
+Fluoranthene	<10	<10	<10	<10/<10	<10	<10	<10
+Pyrene	<10	<10	<10	<10/<10	<10	<10	<10
+Benzo(a)anthracene	<10	<10	<10	<10/<10	<10	<10	<10
+Chrysene	<10	<10	<10	<10/<10	<10	<10	<10
+Benzo(b+k)fluoranthen	<10	<10	<10	<10/<10	<10	<10	<10
+Benzo(e)pyrene	<10	<10	<10	<10/<10	<10	<10	<10
+Benzo(a)pyrene	<10	<10	<10	<10/<10	<10	<10	<10
+Perylene	<10	<10	<10	<10/<10	<10	<10	<10
+Indeno(123cd)pyren	<10	<10	<10	<10/<10	<10	<10	<10
+Dibenzo(ah)anthrace	<10	<10	<10	<10/<10	<10	<10	<10
+Benzo(ghi)perylene	<10	<10	<10	<10/<10	<10	<10	<10
+
+TOTAL	ND	ND	ND	ND	ND	ND	ND
+
+
+Surrogate Recovery (%)							
+
+Naph-d8	44	36	33	33/31	33	32	32
+Anap-d10	60	59	62	58/57	60	59	57
+Chry-d12	67	71	74	68/68	67	71	73
+BaP-d12	67	64	69	64/63	63	64	66
+BghiP-d12	71	77	77	76/73	71	90	89
+
+
+
+
+
+
+
+
+
+
+
+
+GULF OF MAINE 1992 MUSSEL SAMPLES							
+
+Polyaromatic Hydrocarbons in Mytilus edulis							
+Tissue Concentrations (ng/g dry weight)							
+
+            PAH	NBHI2N	NBHI3N	NBHI1C	NBHI2C	NBHI3C	NBSC1N	NBSC2N
+	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+Naphthalene	<30/<30	<30	<30	<30	<30	<30	<30
+2-Me naphthalene	<30/<30	<30	<30	<30	<30	<30	<30
+1-Me naphthalene	<30/<30	<30	<30	<30	<30	<30	<30
+Biphenyl	<20/<20	<20	<20	<20	<20	<20	<20
+"2,6-Dime naphthalen"	<20/<20	<20	<20	<20	<20	<20	23
+Acenaphthylene	<10/<10	<10	<10	<10	<10	<10	<10
+Acenaphthene	<10/<10	<10	<10	<10	<10	<10	<10
+"2,3,5-Trime naphthal"	<20/<20	<20	<20	<20	<20	24	21
+Fluorene	<10/<10	<10	<10	<10	<10	18	17
+Phenanthrene	<10/<10	<10	<10	<10	<10	51	46
+Anthracene	<10/<10	<10.	<10.	<10.	<10.	19	20
+1-Me phenanthrene	<10/<10	<10.	<10.	<10.	<10.	18	16
+Fluoranthene	<10/<10	<10	<10	<10	<10	85	79
+Pyrene	<10/<10	<10	<10	<10	<10	66	61
+Benzo(a)anthracene	<10/<10	<10	<10	<10	<10	21	18
+Chrysene	<10/<10	<10	<10	<10	<10	41	37
+Benzo(b+k)fluoranthen	<10/<10	<10	<10	<10	<10	23	19
+Benzo(e)pyrene	<10/<10	<10	<10	<10	<10	36	31
+Benzo(a)pyrene	<10/<10	<10	<10	<10	<10	<10	<10
+Perylene	<10/<10	<10	<10	<10	<10	<10	<10
+Indeno(123cd)pyren	<10/<10	<10	<10	<10	<10	<10	<10
+Dibenzo(ah)anthrace	<10/<10	<10	<10	<10	<10	<10	<10
+Benzo(ghi)perylene	<10/<10	<10	<10	<10	<10	<10	<10
+
+TOTAL	ND	ND	ND	ND	ND	402	388
+
+
+Surrogate Recovery (%)							
+
+Naph-d8	30/29	40	38	33	34	38	44
+Anap-d10	56/51	64	57	56	58	57	59
+Chry-d12	66/67	71	73	57	69	65	74
+BaP-d12	62/58	68	65	56	63	64	72
+BghiP-d12	83/72	95	92	82	81	91	82
+
+
+
+
+
+
+
+
+
+
+
+
+GULF OF MAINE 1992 MUSSEL SAMPLES							
+
+Polyaromatic Hydrocarbons in Mytilus edulis							
+Tissue Concentrations (ng/g dry weight)							
+
+            PAH	NSBC3N	NSDI1N	NSDI2N	NSDI3N	NSBC1C	NSBC2C	NSBC3C
+	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+Naphthalene	<30/<30	<30	<30	<30	<30/<30	<30	<30
+2-Me naphthalene	<30/<30	<30	<30	<30	<30/<30	<30	<30
+1-Me naphthalene	<30/<30	<30	<30	<30	<30/<30	<30	<30
+Biphenyl	<20/<20	<20	<20	<20	<20/<20	<20	<20
+"2,6-Dime naphthalen"	<20/<20	38	23	26	<20/<20	<20	<20
+Acenaphthylene	<10/<10	<10	<10	<10	<10/<10	<10	<10
+Acenaphthene	<10/<10	<10	<10	<10	<10/<10	<10	<10
+"2,3,5-Trime naphthal"	24/21	52	44	35	<20/<20	<20	<20
+Fluorene	18/18	<10	<10	16	<10/<10	<10	<10
+Phenanthrene	66/63	47	41	39	31/18	<10	21
+Anthracene	27/19	19	<10	<10	<10/<10	<10.	<10
+1-Me phenanthrene	17/17	35	30	25	<10/<10	<10.	<10.
+Fluoranthene	92/82	69	64	37	36/21	20	23
+Pyrene	65/59	33	31	32	<10/<10	<10	<10
+Benzo(a)anthracene	19/19	<10	<10	<10	<10/<10	<10	<10
+Chrysene	35/31	27	21	21	<10/<10	<10	<10
+Benzo(b+k)fluoranthen	34/32	<10	<10	<10	<10/<10	<10	<10
+Benzo(e)pyrene	18/16	<10	<10	<10	<10/<10	<10	<10
+Benzo(a)pyrene	<10/<10	<10	<10	<10	<10/<10	<10	<10
+Perylene	<10/<10	<10	<10	<10	<10/<10	<10	<10
+Indeno(123cd)pyren	<10/<10	<10	<10	<10	<10/<10	<10	<10
+Dibenzo(ah)anthrace	<10/<10	<10	<10	<10	<10/<10	<10	<10
+Benzo(ghi)perylene	<10/<10	<10	<10	<10	<10/<10	<10	<10
+
+TOTAL	415	320	254	261	67	20	44
+
+
+Surrogate Recovery (%)							
+
+Naph-d8	50/47	40	42	54	56/53	36	38
+Anap-d10	73/70	59	60	67	64/71	58	43
+Chry-d12	72/65	66	65	70	42/75	58	48
+BaP-d12	67/63	67	65	69	34/71	51	38
+BghiP-d12	77/83	75	69	91	68/103	71	70
+
+
+
+
+
+
+
+
+
+
+
+
+GULF OF MAINE 1992 MUSSEL SAMPLES							
+
+Polyaromatic Hydrocarbons in Mytilus edulis							
+Tissue Concentrations (ng/g dry weight)							
+
+            PAH	NSDI1C	NSDI2C	NSDI3C	NBMI1N	NBMI2N	NBMI3N	NBMI1C
+	OCT	OCT	OCT	OCT	OCT	OCT	OCT
+
+Naphthalene	<30	35	<30/36	<30	<30	<30	<30/<30
+2-Me naphthalene	<30	<30	<30/30	<30	<30	<30	<30/<30
+1-Me naphthalene	<30	<30	<30/<30	<30	<30	<30	<30/<30
+Biphenyl	<20	<20	<20/<20	<20	<20	<20	<20/<20
+"2,6-Dime naphthalen"	<20	<20	<20/<20	<20	<20	<20	<20/<20
+Acenaphthylene	<10	<10	<10/<10	<10	<10	<10	<10/<10
+Acenaphthene	<10	<10	<10/<10	<10	<10	<10	<10/<10
+"2,3,5-Trime naphthal"	<20	<20	<20/<20	<20	<20	<20	<20/<20
+Fluorene	<10	<10	<10/<10	15	<10	<10	<10/<10
+Phenanthrene	29	28	17/30	34	<10	<10	<10/<10
+Anthracene	<10.	<10.	<10/<10	17	<10	<10.	<10/<10
+1-Me phenanthrene	<10.	<10.	<10/<10	13	<10	<10.	<10/<10
+Fluoranthene	29	26	20/31	30	<10	<10	<10/<10
+Pyrene	41	<10	<10/17	29	14	13	<10/<10
+Benzo(a)anthracene	<10	<10	<10/<10	21	<10	<10	<10/<10
+Chrysene	28	<10	<10/16	26	15	<10	<10/<10
+Benzo(b+k)fluoranthen	<10	<10	<10/<10	55	21	16	<10/<10
+Benzo(e)pyrene	27	<10	<10/<10	12	13	10	<10/<10
+Benzo(a)pyrene	<10	<10	<10/<10	<10	<10	<10	<10/<10
+Perylene	<10	<10	<10/<10	<10	<10	<10	<10/<10
+Indeno(123cd)pyren	<10	<10	<10/<10	<10	<10	<10	<10/<10
+Dibenzo(ah)anthrace	<10	<10	<10/<10	<10	<10	<10	<10/<10
+Benzo(ghi)perylene	41	<10	<10/<10	<10	<10	<10	<10/<10
+
+TOTAL	195	89	37	252	63	39	ND
+
+
+Surrogate Recovery (%)							
+
+Naph-d8	38	76	60/55	41	38	37	37/40
+Anap-d10	52	71	73/65	70	64	63	63/57
+Chry-d12	64	51	73/71	83	83	81	81/74
+BaP-d12	53	42	56/63	87	88	84	75/76
+BghiP-d12	83	108	109/82	92	94	90	101/97
+
+
+
+
+
+
+
+
+
+
+
+
+GULF OF MAINE 1992 MUSSEL SAMPLES		
+
+Polyaromatic Hydrocarbons in Mytilus edulis		
+Tissue Concentrations (ng/g dry weight)		
+
+            PAH	NBMI2C	NBMI3C
+	OCT	OCT
+
+Naphthalene	<30	<30
+2-Me naphthalene	<30	<30
+1-Me naphthalene	<30	<30
+Biphenyl	<20	<20
+"2,6-Dime naphthalen"	<20	<20
+Acenaphthylene	<10	<10
+Acenaphthene	<10	<10
+"2,3,5-Trime naphthal"	<20	<20
+Fluorene	<10	<10
+Phenanthrene	<10	<10
+Anthracene	<10.	<10.
+1-Me phenanthrene	<10.	<10.
+Fluoranthene	<10	<10
+Pyrene	<10	<10
+Benzo(a)anthracene	<10	<10
+Chrysene	<10	<10
+Benzo(b+k)fluoranthen	<10	<10
+Benzo(e)pyrene	<10	<10
+Benzo(a)pyrene	<10	<10
+Perylene	<10	<10
+Indeno(123cd)pyren	<10	<10
+Dibenzo(ah)anthrace	<10	<10
+Benzo(ghi)perylene	<10	<10
+
+TOTAL	ND	ND
+
+
+Surrogate Recovery (%)		
+
+Naph-d8	39	44
+Anap-d10	57	64
+Chry-d12	64	74
+BaP-d12	67	77
+BghiP-d12	83	89

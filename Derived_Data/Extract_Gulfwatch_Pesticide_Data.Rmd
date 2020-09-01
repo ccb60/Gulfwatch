@@ -1,0 +1,111 @@
+---
+title: "Extract Data on Pesticide Contamination in Mussel Tissue from Casco Bay Sites From Gulfwatch Data"
+author: "Curtis C. Bohlen, Casco Bay Estuary Partnership"
+date: "8/20/2020"
+output:
+  github_document:
+    toc: true
+    fig_width: 7
+    fig_height: 5
+---
+
+<img
+  src="https://www.cascobayestuary.org/wp-content/uploads/2014/04/logo_sm.jpg"
+  style="position:absolute;top:10px;right:50px;" />
+
+
+# Overview
+*  Pesticide files are organized with Parameters (pesticides) in rows, and Sites in columns. 
+*  As for the other Gulfwatch data, files prior to 1998 are organized in blocks,
+not one continuous table. 
+*  All sample values are in ng/g dry weight.  
+*  Non-detects are abundant, and  are shown as "<{value}".  
+*  Each block of sample data is followed by a related block containing data on
+"Surrogate" (presumably recovery) expressed in percent.  Most source tables 
+show no information on what the surrogate was except in 1999, when it is
+identified as g-Chlordene.  In 2000 no Surrogate data was provided, but the 
+worksheet has the annotation "IN = Interference", suggesting a problem.
+*  A sample from Broad Cove in 1995 appears to have two sets of values combined
+in a a single column, separated by a slash ("/").  We split the two values out
+as replicates, probably laboratory replicates.  
+* MEPR-1N, from 2000 has an extraneous "<1.2" in a row that should not contain
+any data.  We deleted it it.
+* Nomenclature of pesticides differs slightly between years.  Order appears
+to be consistent.  Most changes in nomenclature reflect differences in
+punctuation or spacing, and obviously refer to the same compound. Only one pair
+of names showed more significant inconsistencies. Data from 1993 and 1994 refers
+to "r-BHC" which probably refers to benzene hexachloride, commonly known as
+Lindane. In 1995, the same row in the data table is labeled with "g-HCH", which
+probably refers to γ-Hexachlorocyclohexane, which is a synonym.
+.
+
+## Data Reorganization in Excel
+With all those exceptions and considerations, it was simpler to reorganize
+these data by hand in Excel, rather than try to write code to extract data
+in a readily reproducible way.
+
+Reorganization involved:
+1. pooling data from multiple files;
+2. deleting data from sampling locations outside of Casco Bay;
+4. adding sample identification data ( site code, year, and sample type); and
+5. Revising the Pesticide Names to generate syntactic names for R.
+
+We retained both sample analysis data and data on "Surrogate Recovery" for each
+sample, but in separate files to simplify analysis.
+
+The reorganized sample data is contained in 'gulfwatch_pest_Casco.csv' and the
+percent recovery data is in 'gulfwatch_pest_Casco_pct_recovery.csv'.
+
+These data require further processing in R, especially to handle non-detects. 
+We begin that processing here, and continue it in the accompanying Notebook
+"Calculate_Gulfwatch_PCB_Totals.Rmd".
+
+Following CBEP convention, we split data columns containing non-detects into two
+data columns, one containing numeric values (either sample observations or
+detection limits), and the other containing a logical flag that indicates
+which values are non-detects.
+
+# Load Libraries
+```{r load_libraries}
+library(tidyverse)
+
+```
+
+
+# Site Codes
+Data in each file indicates locations of samples either with a site code (most data) or with a site name (most metals data).
+```{r site_codes}
+sitecodes <- c('MEPH', 'MEPR', 'MEBC', 'MERY')
+sitenames <- c('Portland Harbor', 'Presumpscot River',
+               'Broad Cove', 'Royal River')
+```
+
+# Load Data
+```{r load_data}
+fn     <- 'gulfwatch_pest_Casco.csv'
+pest_data <- read_csv(fn)
+```
+
+## Convert to Long Form
+```{r long_form}
+pest_data_longer <- pest_data %>% pivot_longer(cols = HCB:Total,
+                                             names_to = 'Pesticide',
+                                             values_to = 'Original')
+```
+
+## Split  Columns 
+Into the numerical value and a ND flag
+```{r split_columns}
+pest_data_working <- pest_data_longer %>%
+  mutate(Flag = Original == 'ND' | grepl('<', Original),
+         Concentration = if_else(Flag,
+                                 as.numeric(substr(Original, 2,nchar(Original))),
+                                 as.numeric(Original))) %>%
+  select (-Original)
+  
+```
+
+## Save Result
+```{r save_long_data}
+write_csv(pest_data_working, 'gulfwatch_pest_data_long.csv')
+```

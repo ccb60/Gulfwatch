@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style type="text/css">
+@font-face {
+font-family: octicons-link;
+src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+body {
+-webkit-text-size-adjust: 100%;
+text-size-adjust: 100%;
+color: #333;
+font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+font-size: 16px;
+line-height: 1.6;
+word-wrap: break-word;
+}
+a {
+background-color: transparent;
+}
+a:active,
+a:hover {
+outline: 0;
+}
+strong {
+font-weight: bold;
+}
+h1 {
+font-size: 2em;
+margin: 0.67em 0;
+}
+img {
+border: 0;
+}
+hr {
+box-sizing: content-box;
+height: 0;
+}
+pre {
+overflow: auto;
+}
+code,
+kbd,
+pre {
+font-family: monospace, monospace;
+font-size: 1em;
+}
+input {
+color: inherit;
+font: inherit;
+margin: 0;
+}
+html input[disabled] {
+cursor: default;
+}
+input {
+line-height: normal;
+}
+input[type="checkbox"] {
+box-sizing: border-box;
+padding: 0;
+}
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+td,
+th {
+padding: 0;
+}
+* {
+box-sizing: border-box;
+}
+input {
+font: 13px / 1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+a {
+color: #4078c0;
+text-decoration: none;
+}
+a:hover,
+a:active {
+text-decoration: underline;
+}
+hr {
+height: 0;
+margin: 15px 0;
+overflow: hidden;
+background: transparent;
+border: 0;
+border-bottom: 1px solid #ddd;
+}
+hr:before {
+display: table;
+content: "";
+}
+hr:after {
+display: table;
+clear: both;
+content: "";
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+margin-top: 15px;
+margin-bottom: 15px;
+line-height: 1.1;
+}
+h1 {
+font-size: 30px;
+}
+h2 {
+font-size: 21px;
+}
+h3 {
+font-size: 16px;
+}
+h4 {
+font-size: 14px;
+}
+h5 {
+font-size: 12px;
+}
+h6 {
+font-size: 11px;
+}
+blockquote {
+margin: 0;
+}
+ul,
+ol {
+padding: 0;
+margin-top: 0;
+margin-bottom: 0;
+}
+ol ol,
+ul ol {
+list-style-type: lower-roman;
+}
+ul ul ol,
+ul ol ol,
+ol ul ol,
+ol ol ol {
+list-style-type: lower-alpha;
+}
+dd {
+margin-left: 0;
+}
+code {
+font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+font-size: 12px;
+}
+pre {
+margin-top: 0;
+margin-bottom: 0;
+font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+.select::-ms-expand {
+opacity: 0;
+}
+.octicon {
+font: normal normal normal 16px/1 octicons-link;
+display: inline-block;
+text-decoration: none;
+text-rendering: auto;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+.octicon-link:before {
+content: '\f05c';
+}
+.markdown-body:before {
+display: table;
+content: "";
+}
+.markdown-body:after {
+display: table;
+clear: both;
+content: "";
+}
+.markdown-body>*:first-child {
+margin-top: 0 !important;
+}
+.markdown-body>*:last-child {
+margin-bottom: 0 !important;
+}
+a:not([href]) {
+color: inherit;
+text-decoration: none;
+}
+.anchor {
+display: inline-block;
+padding-right: 2px;
+margin-left: -18px;
+}
+.anchor:focus {
+outline: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+margin-top: 1em;
+margin-bottom: 16px;
+font-weight: bold;
+line-height: 1.4;
+}
+h1 .octicon-link,
+h2 .octicon-link,
+h3 .octicon-link,
+h4 .octicon-link,
+h5 .octicon-link,
+h6 .octicon-link {
+color: #000;
+vertical-align: middle;
+visibility: hidden;
+}
+h1:hover .anchor,
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor,
+h5:hover .anchor,
+h6:hover .anchor {
+text-decoration: none;
+}
+h1:hover .anchor .octicon-link,
+h2:hover .anchor .octicon-link,
+h3:hover .anchor .octicon-link,
+h4:hover .anchor .octicon-link,
+h5:hover .anchor .octicon-link,
+h6:hover .anchor .octicon-link {
+visibility: visible;
+}
+h1 {
+padding-bottom: 0.3em;
+font-size: 2.25em;
+line-height: 1.2;
+border-bottom: 1px solid #eee;
+}
+h1 .anchor {
+line-height: 1;
+}
+h2 {
+padding-bottom: 0.3em;
+font-size: 1.75em;
+line-height: 1.225;
+border-bottom: 1px solid #eee;
+}
+h2 .anchor {
+line-height: 1;
+}
+h3 {
+font-size: 1.5em;
+line-height: 1.43;
+}
+h3 .anchor {
+line-height: 1.2;
+}
+h4 {
+font-size: 1.25em;
+}
+h4 .anchor {
+line-height: 1.2;
+}
+h5 {
+font-size: 1em;
+}
+h5 .anchor {
+line-height: 1.1;
+}
+h6 {
+font-size: 1em;
+color: #777;
+}
+h6 .anchor {
+line-height: 1.1;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table,
+pre {
+margin-top: 0;
+margin-bottom: 16px;
+}
+hr {
+height: 4px;
+padding: 0;
+margin: 16px 0;
+background-color: #e7e7e7;
+border: 0 none;
+}
+ul,
+ol {
+padding-left: 2em;
+}
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+margin-top: 0;
+margin-bottom: 0;
+}
+li>p {
+margin-top: 16px;
+}
+dl {
+padding: 0;
+}
+dl dt {
+padding: 0;
+margin-top: 16px;
+font-size: 1em;
+font-style: italic;
+font-weight: bold;
+}
+dl dd {
+padding: 0 16px;
+margin-bottom: 16px;
+}
+blockquote {
+padding: 0 15px;
+color: #777;
+border-left: 4px solid #ddd;
+}
+blockquote>:first-child {
+margin-top: 0;
+}
+blockquote>:last-child {
+margin-bottom: 0;
+}
+table {
+display: block;
+width: 100%;
+overflow: auto;
+word-break: normal;
+word-break: keep-all;
+}
+table th {
+font-weight: bold;
+}
+table th,
+table td {
+padding: 6px 13px;
+border: 1px solid #ddd;
+}
+table tr {
+background-color: #fff;
+border-top: 1px solid #ccc;
+}
+table tr:nth-child(2n) {
+background-color: #f8f8f8;
+}
+img {
+max-width: 100%;
+box-sizing: content-box;
+background-color: #fff;
+}
+code {
+padding: 0;
+padding-top: 0.2em;
+padding-bottom: 0.2em;
+margin: 0;
+font-size: 85%;
+background-color: rgba(0,0,0,0.04);
+border-radius: 3px;
+}
+code:before,
+code:after {
+letter-spacing: -0.2em;
+content: "\00a0";
+}
+pre>code {
+padding: 0;
+margin: 0;
+font-size: 100%;
+word-break: normal;
+white-space: pre;
+background: transparent;
+border: 0;
+}
+.highlight {
+margin-bottom: 16px;
+}
+.highlight pre,
+pre {
+padding: 16px;
+overflow: auto;
+font-size: 85%;
+line-height: 1.45;
+background-color: #f7f7f7;
+border-radius: 3px;
+}
+.highlight pre {
+margin-bottom: 0;
+word-break: normal;
+}
+pre {
+word-wrap: normal;
+}
+pre code {
+display: inline;
+max-width: initial;
+padding: 0;
+margin: 0;
+overflow: initial;
+line-height: inherit;
+word-wrap: normal;
+background-color: transparent;
+border: 0;
+}
+pre code:before,
+pre code:after {
+content: normal;
+}
+kbd {
+display: inline-block;
+padding: 3px 5px;
+font-size: 11px;
+line-height: 10px;
+color: #555;
+vertical-align: middle;
+background-color: #fcfcfc;
+border: solid 1px #ccc;
+border-bottom-color: #bbb;
+border-radius: 3px;
+box-shadow: inset 0 -1px 0 #bbb;
+}
+.pl-c {
+color: #969896;
+}
+.pl-c1,
+.pl-s .pl-v {
+color: #0086b3;
+}
+.pl-e,
+.pl-en {
+color: #795da3;
+}
+.pl-s .pl-s1,
+.pl-smi {
+color: #333;
+}
+.pl-ent {
+color: #63a35c;
+}
+.pl-k {
+color: #a71d5d;
+}
+.pl-pds,
+.pl-s,
+.pl-s .pl-pse .pl-s1,
+.pl-sr,
+.pl-sr .pl-cce,
+.pl-sr .pl-sra,
+.pl-sr .pl-sre {
+color: #183691;
+}
+.pl-v {
+color: #ed6a43;
+}
+.pl-id {
+color: #b52a1d;
+}
+.pl-ii {
+background-color: #b52a1d;
+color: #f8f8f8;
+}
+.pl-sr .pl-cce {
+color: #63a35c;
+font-weight: bold;
+}
+.pl-ml {
+color: #693a17;
+}
+.pl-mh,
+.pl-mh .pl-en,
+.pl-ms {
+color: #1d3e81;
+font-weight: bold;
+}
+.pl-mq {
+color: #008080;
+}
+.pl-mi {
+color: #333;
+font-style: italic;
+}
+.pl-mb {
+color: #333;
+font-weight: bold;
+}
+.pl-md {
+background-color: #ffecec;
+color: #bd2c00;
+}
+.pl-mi1 {
+background-color: #eaffea;
+color: #55a532;
+}
+.pl-mdr {
+color: #795da3;
+font-weight: bold;
+}
+.pl-mo {
+color: #1d3e81;
+}
+kbd {
+display: inline-block;
+padding: 3px 5px;
+font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+line-height: 10px;
+color: #555;
+vertical-align: middle;
+background-color: #fcfcfc;
+border: solid 1px #ccc;
+border-bottom-color: #bbb;
+border-radius: 3px;
+box-shadow: inset 0 -1px 0 #bbb;
+}
+.task-list-item {
+list-style-type: none;
+}
+.task-list-item+.task-list-item {
+margin-top: 3px;
+}
+.task-list-item input {
+margin: 0 0.35em 0.25em -1.6em;
+vertical-align: middle;
+}
+:checked+.radio-label {
+z-index: 1;
+position: relative;
+border-color: #4078c0;
+}
+.sourceLine {
+display: inline-block;
+}
+code .kw { color: #000000; }
+code .dt { color: #ed6a43; }
+code .dv { color: #009999; }
+code .bn { color: #009999; }
+code .fl { color: #009999; }
+code .ch { color: #009999; }
+code .st { color: #183691; }
+code .co { color: #969896; }
+code .ot { color: #0086b3; }
+code .al { color: #a61717; }
+code .fu { color: #63a35c; }
+code .er { color: #a61717; background-color: #e3d2d2; }
+code .wa { color: #000000; }
+code .cn { color: #008080; }
+code .sc { color: #008080; }
+code .vs { color: #183691; }
+code .ss { color: #183691; }
+code .im { color: #000000; }
+code .va {color: #008080; }
+code .cf { color: #000000; }
+code .op { color: #000000; }
+code .bu { color: #000000; }
+code .ex { color: #000000; }
+code .pp { color: #999999; }
+code .at { color: #008080; }
+code .do { color: #969896; }
+code .an { color: #008080; }
+code .cv { color: #008080; }
+code .in { color: #008080; }
+</style>
+<style>
+body {
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 45px;
+  padding-top: 0px;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1 id="extract-data-on-pcb-contamination-in-mussel-tissue-from-casco-bay-sites-from-gulfwatch-data">Extract Data on PCB Contamination in Mussel Tissue from Casco Bay Sites From Gulfwatch Data</h1>
+<p>Curtis C. Bohlen, Casco Bay Estuary Partnership 8/20/2020</p>
+<ul>
+<li><a href="#overview">Overview</a>
+<ul>
+<li><a href="#data-reorganization-in-excel">Data Reorganization in Excel</a></li>
+</ul></li>
+<li><a href="#load-libraries">Load Libraries</a></li>
+<li><a href="#site-codes">Site Codes</a></li>
+<li><a href="#load-data">Load Data</a>
+<ul>
+<li><a href="#convert-to-long-form">Convert to Long Form</a></li>
+<li><a href="#split-columns">Split Columns</a></li>
+<li><a href="#save-result">Save Result</a></li>
+</ul></li>
+</ul>
+<p><img src="data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABQAAD/4QQAaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjMtYzAxMSA2Ni4xNDU2NjEsIDIwMTIvMDIvMDYtMTQ6NTY6MjcgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0idXVpZDpGRTg0NDBEQjUzNzlFMzExQkM5QUFFNTlGNzhBQjMyOSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowN0Y3RjdEREVCMUUxMUUzQUI0NkI0RTYyQkY4MTlGQiIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowN0Y3RjdEQ0VCMUUxMUUzQUI0NkI0RTYyQkY4MTlGQiIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkQ3ODM4OTk4QzcyRDExRTNBMDc4Q0I2NjRBMUUzOEMyIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkQ3ODM4OTk5QzcyRDExRTNBMDc4Q0I2NjRBMUUz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" style="position:absolute;top:10px;right:50px;" /></p>
+<h1 id="overview">Overview</h1>
+<ul>
+<li>PCB files are organized with Parameters (PCBs) in rows, and Sites in columns.</li>
+<li>As for the other Gulfwatch data, files prior to 1998 are organized in blocks, not one continuous table.</li>
+<li>PCBs are identified by congener number, sometimes separated by a semicolon when more than one congener is reported on a given line. Nomenclature and a crosswalk to other ways of naming compounds are provided in the Excel file “PCB_Nomenclature.xlsx”. As our primary focus will be on TOTAL PCBs, nomenclature is not critical.</li>
+<li>All sample values are in ng/g dry weight.</li>
+<li>Non-detects are abundant, and are shown as “&lt;{value}”.</li>
+<li>Each block of sample data is followed by a related block containing data on “Surrogate Recovery” expressed in percent. Recoveries vary substantially.</li>
+<li>Nomenclature used in the Surrogate Recovery blocks is not consistent across years or even with sample data from the same year.</li>
+<li>Surrogate recovery data are sometimes encoded with, and sometimes without a percent sign (“%”).</li>
+<li>Although four samples were analyzed from the Royal River in 1993 for metals, only three were analyzed for PCBs.</li>
+<li>A sample from Broad Cove in 1995 appears to have two sets of values combined in a a single column, separated by a slash (“/”). We split the two values out as replicates. We do not know if these are field replicates or laboratory replicates.</li>
+<li>A duplicate sample in 1999 was not assigned to a specific sample. By context that appears to be a laboratory duplicate (but that is not clearly defined). There is no indication of which primary sample it duplicates (if any). This makes it impossible to fully assess data consistency using this sample, and figure out how to handle it in analysis.</li>
+<li>The PCB data for 2000 included two rows listed as PCB 87. By context, the second one Probably should have been PCB 187.</li>
+<li>Percent lipid data was provided for 1999 data only, and is dropped here for consistency with other years.</li>
+<li>The percent recovery figure for PCB 198 in 1999 is listed as “IN” for interference.</li>
+</ul>
+<h2 id="data-reorganization-in-excel">Data Reorganization in Excel</h2>
+<p>With all those exceptions and considerations, it was simpler to reorganize these data by hand in Excel, rather than try to write code to extract data in a readily reproducible way.</p>
+<p>Reorganization involved: 1. pooling data from multiple files; 2. deleting data from sampling locations outside of Casco Bay; 3. establishing consistent ordering of PCBs 4. adding sample identification data ( site code, year, and sample type); and 5. Revising the numeric PCB Codes to generate syntactic names for R. Names start with “PCB_” followed by one or two PCB congener numbers, separated by underscores.</p>
+<p>We retained both sample analysis data and data on “Surrogate Recovery” for each sample, but in separate files to simplify analysis.</p>
+<p>The reorganized sample data is contained in ‘gulfwatch_pcb_Casco.csv’ and the percent recovery data is in ‘gulfwatch_pcb_Casco_pct_recovery.csv’.</p>
+<p>These data require further processing in R, especially to handle non-detects. We begin that processing here, and continue it in the accompanying Notebook “Calculate_Gulfwatch_PCB_Totals.Rmd”.</p>
+<p>Following CBEP convention, we split data columns containing non-detects into two data columns, one containing numeric values (either sample observations or detection limits), and the other containing a logical flag that indicates which values are non-detects.</p>
+<h1 id="load-libraries">Load Libraries</h1>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">library</span>(tidyverse)</span></code></pre></div>
+<pre><code>## -- Attaching packages --------------------------------------------------------------------------------------------------------------- tidyverse 1.3.0 --
+
+## v ggplot2 3.3.2     v purrr   0.3.4
+## v tibble  3.0.3     v dplyr   1.0.0
+## v tidyr   1.1.0     v stringr 1.4.0
+## v readr   1.3.1     v forcats 0.5.0
+
+## -- Conflicts ------------------------------------------------------------------------------------------------------------------ tidyverse_conflicts() --
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()
+</code></pre>
+<h1 id="site-codes">Site Codes</h1>
+<p>Data in each file indicates locations of samples either with a site code (most data) or with a site name (most metals data).</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1"></a>sitecodes &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&#39;MEPH&#39;</span>, <span class="st">&#39;MEPR&#39;</span>, <span class="st">&#39;MEBC&#39;</span>, <span class="st">&#39;MERY&#39;</span>)</span>
+<span id="cb3-2"><a href="#cb3-2"></a>sitenames &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&#39;Portland Harbor&#39;</span>, <span class="st">&#39;Presumpscot River&#39;</span>,</span>
+<span id="cb3-3"><a href="#cb3-3"></a>               <span class="st">&#39;Broad Cove&#39;</span>, <span class="st">&#39;Royal River&#39;</span>)</span></code></pre></div>
+<h1 id="load-data">Load Data</h1>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1"></a>fn     &lt;-<span class="st"> &#39;gulfwatch_pcb_Casco.csv&#39;</span></span>
+<span id="cb4-2"><a href="#cb4-2"></a>pcb_data &lt;-<span class="st"> </span><span class="kw">read_csv</span>(fn)</span></code></pre></div>
+<pre><code>## Parsed with column specification:
+## cols(
+##   .default = col_character(),
+##   Year = col_double(),
+##   Dups = col_logical()
+## )
+
+## See spec(...) for full column specifications.
+</code></pre>
+<h2 id="convert-to-long-form">Convert to Long Form</h2>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1"></a>pcb_data_longer &lt;-<span class="st"> </span>pcb_data <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">pivot_longer</span>(<span class="dt">cols =</span> PCB_<span class="dv">8</span>_<span class="dv">5</span><span class="op">:</span>Total,</span>
+<span id="cb6-2"><a href="#cb6-2"></a>                                             <span class="dt">names_to =</span> <span class="st">&#39;PCB&#39;</span>,</span>
+<span id="cb6-3"><a href="#cb6-3"></a>                                             <span class="dt">values_to =</span> <span class="st">&#39;Original&#39;</span>)</span></code></pre></div>
+<h2 id="split-columns">Split Columns</h2>
+<p>Into the numerical value and a ND flag</p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1"></a>pcb_data_working &lt;-<span class="st"> </span>pcb_data_longer <span class="op">%&gt;%</span></span>
+<span id="cb7-2"><a href="#cb7-2"></a><span class="st">  </span><span class="kw">mutate</span>(<span class="dt">Flag =</span> Original <span class="op">==</span><span class="st"> &#39;ND&#39;</span> <span class="op">|</span><span class="st"> </span><span class="kw">grepl</span>(<span class="st">&#39;&lt;&#39;</span>, Original),</span>
+<span id="cb7-3"><a href="#cb7-3"></a>         <span class="dt">Concentration =</span> <span class="kw">if_else</span>(Flag,</span>
+<span id="cb7-4"><a href="#cb7-4"></a>                                 <span class="kw">as.numeric</span>(<span class="kw">substr</span>(Original, <span class="dv">2</span>,<span class="kw">nchar</span>(Original))),</span>
+<span id="cb7-5"><a href="#cb7-5"></a>                                 <span class="kw">as.numeric</span>(Original))) <span class="op">%&gt;%</span></span>
+<span id="cb7-6"><a href="#cb7-6"></a><span class="st">  </span><span class="kw">select</span> (<span class="op">-</span>Original)</span></code></pre></div>
+<pre><code>## Warning in if_else(Flag, as.numeric(substr(Original, 2, nchar(Original))), : NAs
+## introduced by coercion
+
+## Warning in replace_with(out, !condition, false, fmt_args(~false), glue(&quot;length
+## of {fmt_args(~condition)}&quot;)): NAs introduced by coercion
+</code></pre>
+<h2 id="save-result">Save Result</h2>
+<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1"></a><span class="kw">write_csv</span>(pcb_data_working, <span class="st">&#39;gulfwatch_pcb_data_long.csv&#39;</span>)</span></code></pre></div>
+
+</body>
+</html>

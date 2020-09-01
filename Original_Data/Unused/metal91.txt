@@ -1,0 +1,150 @@
+	1991 GULFWATCH METAL CONCENTRATIONS IN UG/G DRY WEIGHT												
+													
+				MASSACHUSETTS									
+
+Year	Station	Sample	Ag	Cd	Cr	Cu	Pb	Hg	Ni	Zn	Al	Fe	% solids
+													
+1991	Nahant	1N(A)	0.3	1.4	4.8	15	3.6	0.3	2.7	110		480	13
+1991	Nahant	1N(B)	0.31	1.3	4.5	17	3.4		2.8	110		460	14
+1991	Nahant	2N(A)	0.18	1.5	4.1	19	3.3	0.3	2.9	120		450	12
+1991	Nahant	2N(B)	0.18	1.4	3.9	19	2.9		2.8	110		430	12
+1991	Nahant	3N(A)	0.18	1.3	39	210	2.8	0.4	16	120		680	12
+1991	Nahant	3N(B)	0.17	1.3	39	230	3.2		16	130		660	12
+
+1991	Nahant	1C(A)	0.32	0.92	17	98	1.9	0	6.3	82		400	18
+1991	Nahant	1C(B)	0.3	0.91	17	100	2		6.3	80		370	18
+1991	Nahant	2C(A)	0.25	1	2.4	9.2	2	0	1.6	91		370	16
+1991	Nahant	2C(B)	0.25	1	2.2	9	2.3		1.5	88		350	17
+
+1991	Nut Island	1N(A)	2.4	1.2	2.2	12	4.4	0.4	1.4	140		360	12
+1991	Nut Island	1N(B)	2.5	1.2	2.1	12	3.9		1.3	140		360	12
+1991	Nut Island	2N(A)	4.2	1.2	26	150	4.6	0.4	9.3	110		470	12
+1991	Nut Island	2N(B)	4.1	1.3	25	150	4.7		9.1	110		470	12
+1991	Nut Island	3N(A)	4.2	1	4	16	6.4	0.4	1.7	120		410	12
+1991	Nut Island	3N(B)	4.7	1.1	3.8	18	5.3		2.1	130		460	12
+
+1991	Nut Island	1C(A)	0.56	0.88	14	14	2.9	0	5	110		320	14
+1991	Nut Island	1C(B)	0.56	0.97	15	18	3.2		5	110		320	14
+
+				NEW  HAMPSHIRE									
+
+Year	Station	Sample	Ag	Cd	Cr	Cu	Pb	Hg	Ni	Zn	Al	Fe	% solids
+
+1991	Shapleigh Island	1N(A)	0.07	1.8	7.9	31	5	0.4	3.4	130		560	8.5
+1991	Shapleigh Island	1N(B)	0.18	1.7	8.1	30	5		3.4	130		555	8.7
+
+1991	Shapleigh Island	1C(A)	0.19	1.4	9	57	3.6	0.4	3.6	140		500	12
+1991	Shapleigh Island	1C(B)	0.17	1.3	8.5	57	3.4		3.3	150		490	12
+1991	Shapleigh Island	2C(A)	0.13	1.4	17	76	3.6	0.3	2.8	120		470	12
+1991	Shapleigh Island	2C(B)	0.14	1.5	16	71	3.8		2.5	130		470	12
+1991	Shapleigh Island	3C(A)	0.1	1.4	7.7	34	3.6	0.3	3.4	140		570	12
+1991	Shapleigh Island	3C(B)	0.13	1.4	7.8	34	3.9		3.5	140		580	12
+
+1991	Little Harbor	1N(A)	0.82	2.7	9	45	5	0.5	4.1	270		330	7.6
+1991	Little Harbor	1N(B)	0.98	2.6	8.9	46	5.4		4.2	270		330	7.8
+
+				MAINE									
+
+Year	Station	Sample	Ag	Cd	Cr	Cu	Pb	Hg	Ni	Zn	Al	Fe	% solids
+
+1991	Boothbay Harbor	1N(A)	0.08	0.83	1	13	11	0.2	0.9	170		300	16
+1991	Boothbay Harbor	1N(B)	0.16	0.83	0.94	12	9.7		0.93	170		300	16
+1991	Boothbay Harbor	2N(A)	0.05	1.6	1	12	42	0.3	1	230		310	9.1
+1991	Boothbay Harbor	2N(B)	0.04	1.5	1	12	43		1	230		400	9.2
+1991	Boothbay Harbor	3N(A)	0.05	1.1	1.4	16	7.4	0.3	1.6	190		230	14
+1991	Boothbay Harbor	3N(B)	0.05	1.1	1.3	15	8.8		1.4	190		240	13
+
+1991	Linekin Bay	1N(A)	0.02	1.6	1.5	11	1.4	0	1.6	140		190	14
+1991	Linekin Bay	1N(B)											14
+1991	Linekin Bay	2N(A)	0.03	1.4	1.2	10	1.8	0	1.2	120		190	16
+1991	Linekin Bay	2N(B)	0.04	1.4	1.2	10	1.6		1.2	120		190	17
+1991	Linekin Bay	3N(A)	0.02	1.2	1	8	2	0	1.2	120		180	14
+1991	Linekin Bay	3N(B)	0.02	1.2	1.2	7.8	2		1.1	120		180	15
+
+1991	Linekin Bay	1C(A)	0.03	0.79	0.7	7.3	0.8	0	1	89		200	16
+1991	Linekin Bay	1C(B)	0.03	0.82	0.7	7.4	0.9		1	87		200	16
+1991	Linekin Bay	2C(A)	0.03	0.87	0.8	8	1.1	0	1.1	93		190	15
+1991	Linekin Bay	2C(B)	0.03	0.95	0.8	8.4	1.2		1	97		190	15
+1991	Linekin Bay	3C(A)	0.04	0.78	0.6	7.3	1.1	0	0.9	86		200	16
+1991	Linekin Bay	3C(B)	0.06	0.79	0.7	7.4	1.3		0.9	85		210	16
+
+1991	Seal Cove	1N(A)	0.03	2.3	1.8	7.6	1.8	0	1.5	77		230	12
+1991	Seal Cove	1N(B)	0.03	2.3	2	8.2	1.8		1.7	79		240	12
+1991	Seal Cove	2N(A)	0.01	2.2	2	6.8	0.8	0	1.5	78		200	11
+1991	Seal Cove	2N(B)	0.01	2.3	1.9	7.1	1.1		1.7	75		220	11
+1991	Seal Cove	3N(A)	0.03	1.7	1.2	7.8	0.8	0	1.1	86		210	14
+1991	Seal Cove	3N(B)	0.03	1.7	1.2	7.7	0.7		1.1	85		210	14
+
+1991	Seal Cove	1C(A)	0.07	0.69	0.5	8.1	0.5	0	0.95	69		200	19
+1991	Seal Cove	1C(B)		0.86	0.5	8.2	0.6		0.94	69		200	19
+1991	Seal Cove	2C(A)	0.11	0.77	0.6	6.4	0.6	0	0.97	71		220	18
+1991	Seal Cove	2C(B)	0.05	0.83	0.5	6.9	0.6		0.97	73		220	18
+1991	Seal Cove	3C(A)	0.07	0.69	0.51	7.7	0.4	0	1	70		200	19
+1991	Seal Cove	3C(B)		0.75	0.53	6.8	0.51		0.69	66		180	19
+
+1991	Southwest Harbor	1N(A)	0	1.4	1.8	11	3.6	0	2	120		390	11
+1991	Southwest Harbor	1N(B)		1.5	1.8	9.6	3.5		1.9	110		370	11
+1991	Southwest Harbor	2N(A)	0	1.6	1.4	7.9	3.6	0	1.6	110		270	11
+1991	Southwest Harbor	2N(B)		1.6	1.3	7.5	3.6		1.5	110		270	11
+1991	Southwest Harbor	3N(A)	0.01	1.2	1	10	2.7	0	0.9	100		240	13
+1991	Southwest Harbor	3N(B)	0.01	1.2	1	9.8	2.4		1	110		250	13
+
+1991	Southwest Harbor	1C(A)	0.02	0.54	0.7	9.5	1.1	0	0.8	75		230	20
+1991	Southwest Harbor	1C(B)	0.02	0.52	0.7	9.2	1		0.7	75		230	20
+1991	Southwest Harbor	2C(A)	0.02	0.6	0.77	12	1.2	0	0.8	64		230	20
+1991	Southwest Harbor	2C(B)	0.03	0.6	0.8	12	1.2		0.8	65		230	19
+1991	Southwest Harbor	3C(A)	0	0.45	0.61	7	1	0	0.74	63		250	20
+1991	Southwest Harbor	3C(B)		0.54	0.68	8.3	1.1		0.78	63		240	20
+
+				NEW  BRUNSWICK									
+
+Year	Station	Sample	Ag	Cd	Cr	Cu	Pb	Hg	Ni	Zn	Al	Fe	% solids
+
+1991	Hospital Island	1P(A)	0.04	2.1	2.4	13	1.4	0	2.2	110		610	15
+1991	Hospital Island	1P(B)	0.04	2	2.7	13	1.8		2.7	110		660	15
+1991	Hospital Island	2P(A)	0.07	1.4	1.2	6.8	0.5	0	1.1	54		240	15
+1991	Hospital Island	2P(B)	0.07	1.4	1.1	6.9	0.4		1.1	52		230	15
+
+1991	Hospital Island	1N(A)	0.15	0.96	2.9	15	0.5	0	1.7	77		240	14
+1991	Hospital Island	1N(B)	0.15	0.97	2.9	15	0.4		1.7	76		250	14
+1991	Hospital Island	2N(A)	0.23	1	1.4	7.6	0.2	0	1.1	65		250	18
+1991	Hospital Island	2N(B)	0.33	1	1.5	8.2	0.3		1.1	66		240	18
+1991	Hospital Island	3N(A)	0.25	1	1.7	8.5	0.3	0	1.2	76		300	16
+1991	Hospital Island	3N(B)	0.22	1	1.5	8.5	0.3		1.2	76		300	16
+
+1991	Hospital Island	1C(A)	0.08	0.77	0.89	7.2	0.1	0	0.81	60		190	21
+1991	Hospital Island	1C(B)		0.83	0.83	7.7	0.1		0.78	58		190	21
+1991	Hospital Island	2C(A)	0.14	1	1.3	9.2	0.2	0	1.1	66		240	20
+1991	Hospital Island	2C(B)	0.13	0.97	1.2	8.7	0.2		1	66		250	20
+1991	Hospital Island	3C(A)	0.13	0.9	1	7.1	0.1	0	0.93	65		270	19
+1991	Hospital Island	3C(B)	0.13	0.88	1	7	0.1		0.91	64		260	19
+
+1991	St. Croix	1C(A)	0.04	1.4	2	8.1	1	0	1.5	83		450	4.7
+1991	St. Croix	1C(B)	0.04	1.4	1.9	7.5	1		1.4	79		420	5
+1991	St. Croix	2C(A)	0.04	1.3	2.5	9.2	1	0	2.1	87		430	15
+1991	St. Croix	2C(B)	0.04	1.3	2.3	9.1	0.7		2	88		440	15
+1991	St. Croix	3C(A)	0.06	1.2	2.3	8.1	0.5	0	1.6	69		400	15
+1991	St. Croix	3C(B)	0.06	1.3	2.5	8.9	0.5		1.7	73		420	15
+
+				NOVA  SCOTIA									
+
+Year	Station	Sample	Ag	Cd	Cr	Cu	Pb	Hg	Ni	Zn	Al	Fe	% solids
+
+1991	Annapolis Causeway	1P(A)	0.02	1.1	1.7	8.5	0.9	0	1.5	60		490	13
+1991	Annapolis Causeway	1P(B)	0.02	1	2.4	8.4	0.8		1.6	60		470	13
+
+1991	Annapolis Causeway	1N(A)	0.1	1.6	2.4	15	0.98	0	2	100		580	18
+1991	Annapolis Causeway	1N(B)		1.5	2.5	15	0.92		2	100		560	18
+
+1991	Annapolis Causeway	1C(A)	0.02	1.1	1.6	13	0.7	0	1.3	77		510	19
+1991	Annapolis Causeway	1C(B)	0.02	0.99	1.6	12	0.6		1.4	76		500	19
+1991	Annapolis Causeway	2C(A)	0.03	1.1	1.9	11	0.7	0	1.4	73		390	19
+1991	Annapolis Causeway	2C(B)	0.02	1.2	1.5	11	0.8		1.2	74		400	19
+
+1991	Thornes Cove	1N(A)		0.41	2.1	6.04	1.49	0	1.62	17.8	86.7		
+1991	Thornes Cove	1N(B)
+
+
+	Sample: # refers to the composite #. In 1991 there was a maximum of 3 composites (20 mussels / composite) per station	
+	"Sample: the letter (P,C orN) refers to the type of sample.  C=caged, P=preset and N=indigenous."	
+	Sample: the letter in brackets refers to replicate measurements on the same composite	

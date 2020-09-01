@@ -1,0 +1,86 @@
+---
+title: "Identify Files Containing Data on Casco Bay Sites From Gulfwatch Data"
+author: "Curtis C. Bohlen, Casco Bay Estuary Partnership"
+date: "8/20/2020"
+output:
+  github_document:
+    toc: true
+    fig_width: 7
+    fig_height: 5
+---
+
+<img
+  src="https://www.cascobayestuary.org/wp-content/uploads/2014/04/logo_sm.jpg"
+
+
+# Introduction
+The Gulfwatch data was downloaded in annual files, but data from Casc oBay was
+not collected in every year. This preliminary script identifies which files
+contain Casco Bay related data and moves all files that do not contain Casco Bay
+data into a sub-folder.  This simplified access to files in the data access
+scripts.
+
+```{r load_libraries}
+library(tidyverse)
+
+```
+
+# Site Codes
+Data in each file indicates locations of samples either with a site code (most data) or with a site name (most metals data).
+```{r site_codes}
+sitecodes <- c('MEPH', 'MEPR', 'MEBC', 'MERY')
+sitenames <- c('Portland Harbor', 'Presumpscot River',
+               'Broad Cove', 'Royal River')
+```
+
+
+# Load Data
+## Establish Folder Reference
+```{r folder_refs}
+sibfldnm <- 'Original_Data'
+parent   <- dirname(getwd())
+sibling  <- file.path(parent,sibfldnm)
+niecefn = 'Gulfwatch'
+niece = file.path(sibling, niecefn)
+```
+
+
+```{r filenames}
+(fnlist <- list.files(niece, pattern = '^(metal|pah|pcb|pest)'))
+```
+#  Search Files to Find Casco Bay Data
+## Assemble REGEX Patterns
+```{r regex_patterns}
+sitecodepattern = ''
+sitecodepattern <- paste0(sitecodepattern, paste(sitecodes, collapse = '|' ))
+sitecodepattern
+
+sitenamepattern = ''
+sitenamepattern <- paste0(sitenamepattern, paste(sitenames, collapse = '|' ))
+sitenamepattern
+```
+
+## Identify Files we Need
+The following could probably be managed with functional programming / vectorized code instead of for loops.  It makes little difference here, since the time consuming steps are opening files and searching.
+
+Also, note that the list of files that do NOT contain Casco Bay data is empty after this notebook is run for the first time.
+```{r identify_files} 
+res <- logical(length(fnlist))
+for (index in seq_along(fnlist)) {
+    lns <- read_lines(file.path(niece,fnlist[index]))
+    res[index] <- (any(grepl(sitecodepattern, lns)) | any(grepl(sitenamepattern, lns)))
+}
+(files_with_CB_data <- fnlist[res])
+cat('\n\n')
+(files_wo_CB_data <- fnlist[! res])
+```
+
+## Move Files We Don't Need
+We place the  data files that do not contain Casco Bay Data into the "Unused" folder.
+
+```{r move_files}
+from <- file.path(niece, files_wo_CB_data)
+to   <- file.path(niece, 'Unused', files_wo_CB_data)
+fs::file_move(from, to)
+
+```
